@@ -1,0 +1,1414 @@
+,Area,Area Id,Variable Name,Variable Id,Year,Value
+0,Albania,3.0,Agricultural water withdrawal,4250.0,1990.0,1.0
+1,Albania,3.0,Agricultural water withdrawal,4250.0,1995.0,0.67
+2,Albania,3.0,Agricultural water withdrawal,4250.0,2000.0,1.06
+3,Albania,3.0,Agricultural water withdrawal,4250.0,2006.0,0.5176
+4,Albania,3.0,Agricultural water withdrawal,4250.0,2017.0,0.905
+5,Austria,11.0,Agricultural water withdrawal,4250.0,1990.0,0.1
+6,Austria,11.0,Agricultural water withdrawal,4250.0,1997.0,0.1
+7,Austria,11.0,Agricultural water withdrawal,4250.0,2002.0,0.1
+8,Austria,11.0,Agricultural water withdrawal,4250.0,2010.0,0.0771
+9,Belarus,57.0,Agricultural water withdrawal,4250.0,1995.0,0.568
+10,Belarus,57.0,Agricultural water withdrawal,4250.0,2000.0,0.442
+11,Belarus,57.0,Agricultural water withdrawal,4250.0,2005.0,0.409
+12,Belarus,57.0,Agricultural water withdrawal,4250.0,2010.0,0.47100000000000003
+13,Belarus,57.0,Agricultural water withdrawal,4250.0,2017.0,0.431
+14,Belgium,255.0,Agricultural water withdrawal,4250.0,1997.0,0.016
+15,Belgium,255.0,Agricultural water withdrawal,4250.0,2002.0,0.0382
+16,Belgium,255.0,Agricultural water withdrawal,4250.0,2007.0,0.0369
+17,Belgium,255.0,Agricultural water withdrawal,4250.0,2012.0,0.036000000000000004
+18,Belgium,255.0,Agricultural water withdrawal,4250.0,2015.0,0.045
+19,Bulgaria,27.0,Agricultural water withdrawal,4250.0,1990.0,2.225
+20,Bulgaria,27.0,Agricultural water withdrawal,4250.0,2002.0,0.743
+21,Bulgaria,27.0,Agricultural water withdrawal,4250.0,2006.0,0.8759
+22,Bulgaria,27.0,Agricultural water withdrawal,4250.0,2012.0,0.9494
+23,Bulgaria,27.0,Agricultural water withdrawal,4250.0,2017.0,0.8345
+24,Croatia,98.0,Agricultural water withdrawal,4250.0,2002.0,0.0059
+25,Croatia,98.0,Agricultural water withdrawal,4250.0,2007.0,0.0032
+26,Croatia,98.0,Agricultural water withdrawal,4250.0,2010.0,0.0086
+27,Croatia,98.0,Agricultural water withdrawal,4250.0,2015.0,0.076
+28,Cyprus,50.0,Agricultural water withdrawal,4250.0,1990.0,0.166
+29,Cyprus,50.0,Agricultural water withdrawal,4250.0,1993.0,0.156
+30,Cyprus,50.0,Agricultural water withdrawal,4250.0,2002.0,0.1606
+31,Cyprus,50.0,Agricultural water withdrawal,4250.0,2007.0,0.14300000000000002
+32,Cyprus,50.0,Agricultural water withdrawal,4250.0,2012.0,0.171
+33,Cyprus,50.0,Agricultural water withdrawal,4250.0,2017.0,0.184
+34,Czechia,167.0,Agricultural water withdrawal,4250.0,1990.0,
+35,Czechia,167.0,Agricultural water withdrawal,4250.0,1997.0,0.02
+36,Czechia,167.0,Agricultural water withdrawal,4250.0,2002.0,0.0187
+37,Czechia,167.0,Agricultural water withdrawal,4250.0,2007.0,0.0298
+38,Czechia,167.0,Agricultural water withdrawal,4250.0,2012.0,0.0432
+39,Czechia,167.0,Agricultural water withdrawal,4250.0,2017.0,0.0466
+40,Denmark,54.0,Agricultural water withdrawal,4250.0,1990.0,0.465
+41,Denmark,54.0,Agricultural water withdrawal,4250.0,1997.0,0.369
+42,Denmark,54.0,Agricultural water withdrawal,4250.0,2002.0,0.1652
+43,Denmark,54.0,Agricultural water withdrawal,4250.0,2007.0,0.1175
+44,Denmark,54.0,Agricultural water withdrawal,4250.0,2012.0,0.1863
+45,Denmark,54.0,Agricultural water withdrawal,4250.0,2016.0,0.3267
+46,Estonia,63.0,Agricultural water withdrawal,4250.0,1995.0,0.008
+47,Estonia,63.0,Agricultural water withdrawal,4250.0,2002.0,0.03
+48,Estonia,63.0,Agricultural water withdrawal,4250.0,2007.0,0.0076
+49,Estonia,63.0,Agricultural water withdrawal,4250.0,2012.0,0.0045
+50,Estonia,63.0,Agricultural water withdrawal,4250.0,2017.0,0.0045
+51,Finland,67.0,Agricultural water withdrawal,4250.0,1990.0,0.02
+52,Finland,67.0,Agricultural water withdrawal,4250.0,1995.0,0.05
+53,Finland,67.0,Agricultural water withdrawal,4250.0,2002.0,0.05
+54,Finland,67.0,Agricultural water withdrawal,4250.0,2005.0,0.05
+55,France,68.0,Agricultural water withdrawal,4250.0,1992.0,4.919
+56,France,68.0,Agricultural water withdrawal,4250.0,1997.0,3.35
+57,France,68.0,Agricultural water withdrawal,4250.0,2002.0,4.291
+58,France,68.0,Agricultural water withdrawal,4250.0,2007.0,3.9330000000000003
+59,France,68.0,Agricultural water withdrawal,4250.0,2012.0,2.9130000000000003
+60,France,68.0,Agricultural water withdrawal,4250.0,2016.0,3.113
+61,Germany,79.0,Agricultural water withdrawal,4250.0,1991.0,1.6
+62,Germany,79.0,Agricultural water withdrawal,4250.0,1995.0,1.6
+63,Germany,79.0,Agricultural water withdrawal,4250.0,2000.0,1.14
+64,Germany,79.0,Agricultural water withdrawal,4250.0,2007.0,0.1317
+65,Germany,79.0,Agricultural water withdrawal,4250.0,2010.0,0.2109
+66,Germany,79.0,Agricultural water withdrawal,4250.0,2016.0,0.2997
+67,Greece,84.0,Agricultural water withdrawal,4250.0,1992.0,7.9
+68,Greece,84.0,Agricultural water withdrawal,4250.0,1997.0,7.6
+69,Greece,84.0,Agricultural water withdrawal,4250.0,2002.0,8.42
+70,Greece,84.0,Agricultural water withdrawal,4250.0,2007.0,8.458
+71,Greece,84.0,Agricultural water withdrawal,4250.0,2012.0,8.283
+72,Greece,84.0,Agricultural water withdrawal,4250.0,2016.0,9.041
+73,Hungary,97.0,Agricultural water withdrawal,4250.0,1992.0,0.9490000000000001
+74,Hungary,97.0,Agricultural water withdrawal,4250.0,1996.0,0.4556
+75,Hungary,97.0,Agricultural water withdrawal,4250.0,2002.0,0.6796
+76,Hungary,97.0,Agricultural water withdrawal,4250.0,2006.0,0.3054
+77,Hungary,97.0,Agricultural water withdrawal,4250.0,2012.0,0.322
+78,Hungary,97.0,Agricultural water withdrawal,4250.0,2017.0,0.5186
+79,Iceland,99.0,Agricultural water withdrawal,4250.0,1992.0,0.07
+80,Iceland,99.0,Agricultural water withdrawal,4250.0,2002.0,0.07
+81,Iceland,99.0,Agricultural water withdrawal,4250.0,2004.0,0.07
+82,Iceland,99.0,Agricultural water withdrawal,4250.0,2012.0,0.0003
+83,Iceland,99.0,Agricultural water withdrawal,4250.0,2015.0,0.0003
+84,Ireland,104.0,Agricultural water withdrawal,4250.0,1994.0,0.179
+85,Italy,106.0,Agricultural water withdrawal,4250.0,2000.0,20.01
+86,Italy,106.0,Agricultural water withdrawal,4250.0,2007.0,12.89
+87,Italy,106.0,Agricultural water withdrawal,4250.0,2013.0,17.0
+88,Latvia,119.0,Agricultural water withdrawal,4250.0,1995.0,0.036000000000000004
+89,Latvia,119.0,Agricultural water withdrawal,4250.0,2002.0,0.0532
+90,Latvia,119.0,Agricultural water withdrawal,4250.0,2007.0,0.0506
+91,Latvia,119.0,Agricultural water withdrawal,4250.0,2012.0,0.0408
+92,Latvia,119.0,Agricultural water withdrawal,4250.0,2017.0,0.0615
+93,Lithuania,126.0,Agricultural water withdrawal,4250.0,1995.0,0.008
+94,Lithuania,126.0,Agricultural water withdrawal,4250.0,2001.0,0.053
+95,Lithuania,126.0,Agricultural water withdrawal,4250.0,2007.0,0.0818
+96,Lithuania,126.0,Agricultural water withdrawal,4250.0,2009.0,0.0793
+97,Lithuania,126.0,Agricultural water withdrawal,4250.0,2017.0,0.0589
+98,Luxembourg,256.0,Agricultural water withdrawal,4250.0,1995.0,0.0002
+99,Luxembourg,256.0,Agricultural water withdrawal,4250.0,1999.0,0.0002
+100,Luxembourg,256.0,Agricultural water withdrawal,4250.0,2012.0,0.0002
+101,Luxembourg,256.0,Agricultural water withdrawal,4250.0,2017.0,0.0004
+102,Malta,134.0,Agricultural water withdrawal,4250.0,1995.0,0.006999999999999999
+103,Malta,134.0,Agricultural water withdrawal,4250.0,2002.0,0.0189
+104,Malta,134.0,Agricultural water withdrawal,4250.0,2007.0,0.0203
+105,Malta,134.0,Agricultural water withdrawal,4250.0,2012.0,0.0241
+106,Malta,134.0,Agricultural water withdrawal,4250.0,2017.0,0.0254
+107,Monaco,140.0,Agricultural water withdrawal,4250.0,1990.0,0.0
+108,Monaco,140.0,Agricultural water withdrawal,4250.0,1997.0,0.0
+109,Monaco,140.0,Agricultural water withdrawal,4250.0,2002.0,0.0
+110,Monaco,140.0,Agricultural water withdrawal,4250.0,2007.0,0.0
+111,Monaco,140.0,Agricultural water withdrawal,4250.0,2009.0,0.0
+112,Montenegro,273.0,Agricultural water withdrawal,4250.0,2007.0,0.0066
+113,Montenegro,273.0,Agricultural water withdrawal,4250.0,2010.0,0.0017
+114,Netherlands,150.0,Agricultural water withdrawal,4250.0,1991.0,0.184
+115,Netherlands,150.0,Agricultural water withdrawal,4250.0,1996.0,0.23
+116,Netherlands,150.0,Agricultural water withdrawal,4250.0,2002.0,0.0526
+117,Netherlands,150.0,Agricultural water withdrawal,4250.0,2007.0,0.0719
+118,Netherlands,150.0,Agricultural water withdrawal,4250.0,2012.0,0.0602
+119,Netherlands,150.0,Agricultural water withdrawal,4250.0,2016.0,0.0765
+120,North Macedonia,154.0,Agricultural water withdrawal,4250.0,1996.0,1.0659999999999998
+121,North Macedonia,154.0,Agricultural water withdrawal,4250.0,2002.0,0.2814
+122,North Macedonia,154.0,Agricultural water withdrawal,4250.0,2007.0,0.1255
+123,North Macedonia,154.0,Agricultural water withdrawal,4250.0,2012.0,1.3530000000000002
+124,North Macedonia,154.0,Agricultural water withdrawal,4250.0,2015.0,0.139
+125,Norway,162.0,Agricultural water withdrawal,4250.0,1996.0,0.73
+126,Norway,162.0,Agricultural water withdrawal,4250.0,2002.0,0.8079999999999999
+127,Norway,162.0,Agricultural water withdrawal,4250.0,2006.0,0.8449
+128,Poland,173.0,Agricultural water withdrawal,4250.0,1992.0,1.37
+129,Poland,173.0,Agricultural water withdrawal,4250.0,1997.0,1.083
+130,Poland,173.0,Agricultural water withdrawal,4250.0,2002.0,1.1079999999999999
+131,Poland,173.0,Agricultural water withdrawal,4250.0,2007.0,1.122
+132,Poland,173.0,Agricultural water withdrawal,4250.0,2012.0,1.102
+133,Poland,173.0,Agricultural water withdrawal,4250.0,2017.0,1.018
+134,Portugal,174.0,Agricultural water withdrawal,4250.0,1991.0,5.1
+135,Portugal,174.0,Agricultural water withdrawal,4250.0,1995.0,10.0
+136,Portugal,174.0,Agricultural water withdrawal,4250.0,1998.0,8.767000000000001
+137,Republic of Moldova,146.0,Agricultural water withdrawal,4250.0,1992.0,0.775
+138,Republic of Moldova,146.0,Agricultural water withdrawal,4250.0,1996.0,0.35
+139,Republic of Moldova,146.0,Agricultural water withdrawal,4250.0,2007.0,0.036000000000000004
+140,Republic of Moldova,146.0,Agricultural water withdrawal,4250.0,2012.0,0.039
+141,Republic of Moldova,146.0,Agricultural water withdrawal,4250.0,2017.0,0.042
+142,Romania,183.0,Agricultural water withdrawal,4250.0,1990.0,9.1
+143,Romania,183.0,Agricultural water withdrawal,4250.0,1997.0,2.98
+144,Romania,183.0,Agricultural water withdrawal,4250.0,2002.0,1.192
+145,Romania,183.0,Agricultural water withdrawal,4250.0,2007.0,1.099
+146,Romania,183.0,Agricultural water withdrawal,4250.0,2012.0,1.093
+147,Romania,183.0,Agricultural water withdrawal,4250.0,2017.0,1.4909999999999999
+148,Russian Federation,185.0,Agricultural water withdrawal,4250.0,1994.0,15.3
+149,Russian Federation,185.0,Agricultural water withdrawal,4250.0,2001.0,13.2
+150,Russian Federation,185.0,Agricultural water withdrawal,4250.0,2017.0,18.66
+151,Serbia,272.0,Agricultural water withdrawal,4250.0,2007.0,0.1282
+152,Serbia,272.0,Agricultural water withdrawal,4250.0,2012.0,0.6245
+153,Serbia,272.0,Agricultural water withdrawal,4250.0,2017.0,0.6608
+154,Slovakia,199.0,Agricultural water withdrawal,4250.0,1992.0,
+155,Slovakia,199.0,Agricultural water withdrawal,4250.0,1997.0,0.067
+156,Slovakia,199.0,Agricultural water withdrawal,4250.0,2002.0,0.055999999999999994
+157,Slovakia,199.0,Agricultural water withdrawal,4250.0,2007.0,0.0225
+158,Slovakia,199.0,Agricultural water withdrawal,4250.0,2012.0,0.0307
+159,Slovakia,199.0,Agricultural water withdrawal,4250.0,2017.0,0.0316
+160,Slovenia,198.0,Agricultural water withdrawal,4250.0,1992.0,0.0037
+161,Slovenia,198.0,Agricultural water withdrawal,4250.0,1995.0,0.0048
+162,Slovenia,198.0,Agricultural water withdrawal,4250.0,2002.0,0.0066
+163,Slovenia,198.0,Agricultural water withdrawal,4250.0,2007.0,0.0046
+164,Slovenia,198.0,Agricultural water withdrawal,4250.0,2012.0,0.0023
+165,Slovenia,198.0,Agricultural water withdrawal,4250.0,2017.0,0.0039
+166,Spain,203.0,Agricultural water withdrawal,4250.0,1991.0,23.7
+167,Spain,203.0,Agricultural water withdrawal,4250.0,1997.0,23.41
+168,Spain,203.0,Agricultural water withdrawal,4250.0,2002.0,23.04
+169,Spain,203.0,Agricultural water withdrawal,4250.0,2007.0,23.18
+170,Spain,203.0,Agricultural water withdrawal,4250.0,2012.0,25.47
+171,Spain,203.0,Agricultural water withdrawal,4250.0,2016.0,20.36
+172,Sweden,210.0,Agricultural water withdrawal,4250.0,1992.0,0.174
+173,Sweden,210.0,Agricultural water withdrawal,4250.0,1997.0,0.15
+174,Sweden,210.0,Agricultural water withdrawal,4250.0,2002.0,0.135
+175,Sweden,210.0,Agricultural water withdrawal,4250.0,2007.0,0.107
+176,Sweden,210.0,Agricultural water withdrawal,4250.0,2010.0,0.098
+177,Sweden,210.0,Agricultural water withdrawal,4250.0,2015.0,0.075
+178,Switzerland,211.0,Agricultural water withdrawal,4250.0,2000.0,0.05
+179,Switzerland,211.0,Agricultural water withdrawal,4250.0,2012.0,0.1601
+180,Ukraine,230.0,Agricultural water withdrawal,4250.0,1992.0,7.865
+181,Ukraine,230.0,Agricultural water withdrawal,4250.0,2000.0,5.485
+182,Ukraine,230.0,Agricultural water withdrawal,4250.0,2005.0,4.525
+183,Ukraine,230.0,Agricultural water withdrawal,4250.0,2010.0,4.454
+184,Ukraine,230.0,Agricultural water withdrawal,4250.0,2017.0,3.2060000000000004
+185,United Kingdom,229.0,Agricultural water withdrawal,4250.0,1990.0,0.6681
+186,United Kingdom,229.0,Agricultural water withdrawal,4250.0,1995.0,1.723
+187,United Kingdom,229.0,Agricultural water withdrawal,4250.0,2002.0,1.308
+188,United Kingdom,229.0,Agricultural water withdrawal,4250.0,2007.0,1.33
+189,United Kingdom,229.0,Agricultural water withdrawal,4250.0,2012.0,1.0490000000000002
+190,United Kingdom,229.0,Agricultural water withdrawal,4250.0,2016.0,1.183
+191,Albania,3.0,Industrial water withdrawal,4252.0,1990.0,0.1
+192,Albania,3.0,Industrial water withdrawal,4252.0,2000.0,0.2274
+193,Albania,3.0,Industrial water withdrawal,4252.0,2005.0,0.2318
+194,Austria,11.0,Industrial water withdrawal,4252.0,1990.0,3.022
+195,Austria,11.0,Industrial water withdrawal,4252.0,1997.0,2.8569999999999998
+196,Austria,11.0,Industrial water withdrawal,4252.0,1999.0,2.8989999999999996
+197,Austria,11.0,Industrial water withdrawal,4252.0,2008.0,2.695
+198,Belarus,57.0,Industrial water withdrawal,4252.0,1995.0,0.66
+199,Belarus,57.0,Industrial water withdrawal,4252.0,2000.0,0.5445
+200,Belarus,57.0,Industrial water withdrawal,4252.0,2005.0,0.494
+201,Belarus,57.0,Industrial water withdrawal,4252.0,2010.0,0.4875
+202,Belarus,57.0,Industrial water withdrawal,4252.0,2017.0,0.44299999999999995
+203,Belgium,255.0,Industrial water withdrawal,4252.0,1997.0,6.8
+204,Belgium,255.0,Industrial water withdrawal,4252.0,2002.0,5.9639999999999995
+205,Belgium,255.0,Industrial water withdrawal,4252.0,2007.0,5.45
+206,Belgium,255.0,Industrial water withdrawal,4252.0,2009.0,5.256
+207,Belgium,255.0,Industrial water withdrawal,4252.0,2015.0,3.21
+208,Bosnia and Herzegovina,80.0,Industrial water withdrawal,4252.0,2002.0,0.0199
+209,Bosnia and Herzegovina,80.0,Industrial water withdrawal,4252.0,2007.0,0.0392
+210,Bosnia and Herzegovina,80.0,Industrial water withdrawal,4252.0,2012.0,0.0721
+211,Bosnia and Herzegovina,80.0,Industrial water withdrawal,4252.0,2017.0,0.0718
+212,Bulgaria,27.0,Industrial water withdrawal,4252.0,1990.0,4.852
+213,Bulgaria,27.0,Industrial water withdrawal,4252.0,2002.0,4.776
+214,Bulgaria,27.0,Industrial water withdrawal,4252.0,2012.0,3.8169999999999997
+215,Bulgaria,27.0,Industrial water withdrawal,4252.0,2017.0,3.9419999999999997
+216,Croatia,98.0,Industrial water withdrawal,4252.0,2002.0,0.0628
+217,Croatia,98.0,Industrial water withdrawal,4252.0,2012.0,0.1477
+218,Croatia,98.0,Industrial water withdrawal,4252.0,2017.0,0.184
+219,Cyprus,50.0,Industrial water withdrawal,4252.0,1990.0,0.005
+220,Cyprus,50.0,Industrial water withdrawal,4252.0,1993.0,0.005
+221,Cyprus,50.0,Industrial water withdrawal,4252.0,2000.0,0.0035
+222,Cyprus,50.0,Industrial water withdrawal,4252.0,2007.0,0.008
+223,Cyprus,50.0,Industrial water withdrawal,4252.0,2009.0,0.006
+224,Cyprus,50.0,Industrial water withdrawal,4252.0,2017.0,0.017
+225,Czechia,167.0,Industrial water withdrawal,4252.0,1997.0,1.514
+226,Czechia,167.0,Industrial water withdrawal,4252.0,2017.0,0.9672
+227,Denmark,54.0,Industrial water withdrawal,4252.0,1990.0,0.225
+228,Denmark,54.0,Industrial water withdrawal,4252.0,2002.0,0.0619
+229,Denmark,54.0,Industrial water withdrawal,4252.0,2007.0,0.0423
+230,Denmark,54.0,Industrial water withdrawal,4252.0,2012.0,0.141
+231,Denmark,54.0,Industrial water withdrawal,4252.0,2016.0,0.0329
+232,Estonia,63.0,Industrial water withdrawal,4252.0,1992.0,2.253
+233,Estonia,63.0,Industrial water withdrawal,4252.0,1995.0,1.262
+234,Estonia,63.0,Industrial water withdrawal,4252.0,2012.0,1.565
+235,Estonia,63.0,Industrial water withdrawal,4252.0,2017.0,1.7209999999999999
+236,Finland,67.0,Industrial water withdrawal,4252.0,1990.0,1.903
+237,Finland,67.0,Industrial water withdrawal,4252.0,1995.0,2.124
+238,Finland,67.0,Industrial water withdrawal,4252.0,2016.0,1.4169999999999998
+239,France,68.0,Industrial water withdrawal,4252.0,1992.0,28.32
+240,France,68.0,Industrial water withdrawal,4252.0,1997.0,21.1
+241,France,68.0,Industrial water withdrawal,4252.0,2002.0,22.11
+242,France,68.0,Industrial water withdrawal,4252.0,2007.0,21.79
+243,France,68.0,Industrial water withdrawal,4252.0,2012.0,19.77
+244,France,68.0,Industrial water withdrawal,4252.0,2016.0,18.15
+245,Germany,79.0,Industrial water withdrawal,4252.0,1995.0,37.8
+246,Germany,79.0,Industrial water withdrawal,4252.0,2001.0,32.6
+247,Germany,79.0,Industrial water withdrawal,4252.0,2016.0,19.75
+248,Greece,84.0,Industrial water withdrawal,4252.0,1997.0,0.2339
+249,Greece,84.0,Industrial water withdrawal,4252.0,2007.0,0.3255
+250,Greece,84.0,Industrial water withdrawal,4252.0,2012.0,0.126
+251,Greece,84.0,Industrial water withdrawal,4252.0,2016.0,0.2083
+252,Hungary,97.0,Industrial water withdrawal,4252.0,1992.0,5.204
+253,Hungary,97.0,Industrial water withdrawal,4252.0,1996.0,4.726
+254,Hungary,97.0,Industrial water withdrawal,4252.0,2002.0,4.209
+255,Hungary,97.0,Industrial water withdrawal,4252.0,2007.0,4.486000000000001
+256,Hungary,97.0,Industrial water withdrawal,4252.0,2012.0,4.013
+257,Hungary,97.0,Industrial water withdrawal,4252.0,2017.0,3.358
+258,Iceland,99.0,Industrial water withdrawal,4252.0,1992.0,0.01
+259,Iceland,99.0,Industrial water withdrawal,4252.0,2002.0,0.013999999999999999
+260,Iceland,99.0,Industrial water withdrawal,4252.0,2004.0,0.013999999999999999
+261,Iceland,99.0,Industrial water withdrawal,4252.0,2012.0,0.2
+262,Iceland,99.0,Industrial water withdrawal,4252.0,2015.0,0.198
+263,Ireland,104.0,Industrial water withdrawal,4252.0,1994.0,0.527
+264,Ireland,104.0,Industrial water withdrawal,4252.0,2007.0,0.051
+265,Italy,106.0,Industrial water withdrawal,4252.0,1990.0,12.5
+266,Italy,106.0,Industrial water withdrawal,4252.0,2000.0,16.29
+267,Italy,106.0,Industrial water withdrawal,4252.0,2013.0,7.7
+268,Latvia,119.0,Industrial water withdrawal,4252.0,2007.0,0.0426
+269,Latvia,119.0,Industrial water withdrawal,4252.0,2012.0,0.0563
+270,Latvia,119.0,Industrial water withdrawal,4252.0,2017.0,0.0252
+271,Lithuania,126.0,Industrial water withdrawal,4252.0,1995.0,4.138999999999999
+272,Lithuania,126.0,Industrial water withdrawal,4252.0,2001.0,2.543
+273,Lithuania,126.0,Industrial water withdrawal,4252.0,2011.0,
+274,Lithuania,126.0,Industrial water withdrawal,4252.0,2017.0,0.0697
+275,Luxembourg,256.0,Industrial water withdrawal,4252.0,1995.0,0.0144
+276,Luxembourg,256.0,Industrial water withdrawal,4252.0,1999.0,0.0142
+277,Luxembourg,256.0,Industrial water withdrawal,4252.0,2012.0,0.0037
+278,Luxembourg,256.0,Industrial water withdrawal,4252.0,2017.0,0.0016
+279,Malta,134.0,Industrial water withdrawal,4252.0,1995.0,0.0
+280,Malta,134.0,Industrial water withdrawal,4252.0,2000.0,0.0005
+281,Malta,134.0,Industrial water withdrawal,4252.0,2007.0,0.001
+282,Malta,134.0,Industrial water withdrawal,4252.0,2012.0,0.001
+283,Malta,134.0,Industrial water withdrawal,4252.0,2017.0,0.001
+284,Monaco,140.0,Industrial water withdrawal,4252.0,1990.0,0.0
+285,Monaco,140.0,Industrial water withdrawal,4252.0,1997.0,0.0
+286,Monaco,140.0,Industrial water withdrawal,4252.0,2002.0,0.0
+287,Monaco,140.0,Industrial water withdrawal,4252.0,2007.0,0.0
+288,Monaco,140.0,Industrial water withdrawal,4252.0,2009.0,0.0
+289,Montenegro,273.0,Industrial water withdrawal,4252.0,2007.0,0.0673
+290,Montenegro,273.0,Industrial water withdrawal,4252.0,2008.0,0.0628
+291,Netherlands,150.0,Industrial water withdrawal,4252.0,1991.0,6.519
+292,Netherlands,150.0,Industrial water withdrawal,4252.0,1996.0,5.01
+293,Netherlands,150.0,Industrial water withdrawal,4252.0,2001.0,7.558
+294,Netherlands,150.0,Industrial water withdrawal,4252.0,2007.0,9.629
+295,Netherlands,150.0,Industrial water withdrawal,4252.0,2012.0,9.446
+296,Netherlands,150.0,Industrial water withdrawal,4252.0,2016.0,14.74
+297,North Macedonia,154.0,Industrial water withdrawal,4252.0,1996.0,0.27399999999999997
+298,North Macedonia,154.0,Industrial water withdrawal,4252.0,2002.0,0.1397
+299,North Macedonia,154.0,Industrial water withdrawal,4252.0,2007.0,0.1993
+300,North Macedonia,154.0,Industrial water withdrawal,4252.0,2013.0,0.107
+301,Norway,162.0,Industrial water withdrawal,4252.0,1996.0,0.909
+302,Norway,162.0,Industrial water withdrawal,4252.0,1999.0,0.7829999999999999
+303,Norway,162.0,Industrial water withdrawal,4252.0,2007.0,1.2329999999999999
+304,Norway,162.0,Industrial water withdrawal,4252.0,2009.0,1.071
+305,Poland,173.0,Industrial water withdrawal,4252.0,1992.0,9.18
+306,Poland,173.0,Industrial water withdrawal,4252.0,1997.0,9.425
+307,Poland,173.0,Industrial water withdrawal,4252.0,2010.0,7.651
+308,Poland,173.0,Industrial water withdrawal,4252.0,2017.0,7.035
+309,Portugal,174.0,Industrial water withdrawal,4252.0,1991.0,3.1
+310,Portugal,174.0,Industrial water withdrawal,4252.0,1998.0,1.4969999999999999
+311,Republic of Moldova,146.0,Industrial water withdrawal,4252.0,1992.0,0.919
+312,Republic of Moldova,146.0,Industrial water withdrawal,4252.0,2000.0,0.9912
+313,Republic of Moldova,146.0,Industrial water withdrawal,4252.0,2005.0,0.8825
+314,Republic of Moldova,146.0,Industrial water withdrawal,4252.0,2017.0,0.65
+315,Romania,183.0,Industrial water withdrawal,4252.0,1990.0,9.06
+316,Romania,183.0,Industrial water withdrawal,4252.0,1997.0,7.43
+317,Romania,183.0,Industrial water withdrawal,4252.0,2002.0,6.17
+318,Romania,183.0,Industrial water withdrawal,4252.0,2006.0,3.75
+319,Romania,183.0,Industrial water withdrawal,4252.0,2012.0,4.336
+320,Romania,183.0,Industrial water withdrawal,4252.0,2017.0,4.234
+321,Russian Federation,185.0,Industrial water withdrawal,4252.0,1994.0,47.5
+322,Russian Federation,185.0,Industrial water withdrawal,4252.0,2001.0,39.6
+323,Russian Federation,185.0,Industrial water withdrawal,4252.0,2017.0,28.04
+324,Serbia,272.0,Industrial water withdrawal,4252.0,2012.0,3.097
+325,Serbia,272.0,Industrial water withdrawal,4252.0,2017.0,4.0569999999999995
+326,Slovakia,199.0,Industrial water withdrawal,4252.0,1997.0,0.7609999999999999
+327,Slovakia,199.0,Industrial water withdrawal,4252.0,2002.0,0.6225
+328,Slovakia,199.0,Industrial water withdrawal,4252.0,2007.0,0.307
+329,Slovakia,199.0,Industrial water withdrawal,4252.0,2012.0,0.3288
+330,Slovakia,199.0,Industrial water withdrawal,4252.0,2017.0,0.2312
+331,Slovenia,198.0,Industrial water withdrawal,4252.0,2002.0,0.7055
+332,Slovenia,198.0,Industrial water withdrawal,4252.0,2007.0,0.7629
+333,Slovenia,198.0,Industrial water withdrawal,4252.0,2012.0,0.7641
+334,Slovenia,198.0,Industrial water withdrawal,4252.0,2017.0,0.758
+335,Spain,203.0,Industrial water withdrawal,4252.0,1991.0,6.4
+336,Spain,203.0,Industrial water withdrawal,4252.0,1997.0,6.68
+337,Spain,203.0,Industrial water withdrawal,4252.0,2002.0,7.447
+338,Spain,203.0,Industrial water withdrawal,4252.0,2007.0,6.495
+339,Spain,203.0,Industrial water withdrawal,4252.0,2012.0,6.572
+340,Spain,203.0,Industrial water withdrawal,4252.0,2016.0,5.966
+341,Sweden,210.0,Industrial water withdrawal,4252.0,1992.0,1.7830000000000001
+342,Sweden,210.0,Industrial water withdrawal,4252.0,1997.0,1.5090000000000001
+343,Sweden,210.0,Industrial water withdrawal,4252.0,2002.0,1.5030000000000001
+344,Sweden,210.0,Industrial water withdrawal,4252.0,2007.0,1.5230000000000001
+345,Sweden,210.0,Industrial water withdrawal,4252.0,2010.0,1.5719999999999998
+346,Sweden,210.0,Industrial water withdrawal,4252.0,2015.0,1.345
+347,Switzerland,211.0,Industrial water withdrawal,4252.0,2012.0,0.6427
+348,Ukraine,230.0,Industrial water withdrawal,4252.0,1992.0,13.5
+349,Ukraine,230.0,Industrial water withdrawal,4252.0,2000.0,9.486
+350,Ukraine,230.0,Industrial water withdrawal,4252.0,2005.0,7.24
+351,Ukraine,230.0,Industrial water withdrawal,4252.0,2010.0,7.126
+352,Ukraine,230.0,Industrial water withdrawal,4252.0,2017.0,3.577
+353,United Kingdom,229.0,Industrial water withdrawal,4252.0,2000.0,7.19
+354,United Kingdom,229.0,Industrial water withdrawal,4252.0,2007.0,1.193
+355,United Kingdom,229.0,Industrial water withdrawal,4252.0,2012.0,1.122
+356,United Kingdom,229.0,Industrial water withdrawal,4252.0,2016.0,1.01
+357,Albania,3.0,Municipal water withdrawal,4251.0,1990.0,0.1
+358,Albania,3.0,Municipal water withdrawal,4251.0,2000.0,0.5504
+359,Albania,3.0,Municipal water withdrawal,4251.0,2005.0,0.5613
+360,Albania,3.0,Municipal water withdrawal,4251.0,2017.0,0.28300000000000003
+361,Austria,11.0,Municipal water withdrawal,4251.0,1990.0,0.6851
+362,Austria,11.0,Municipal water withdrawal,4251.0,1997.0,0.6871
+363,Austria,11.0,Municipal water withdrawal,4251.0,1999.0,0.6687
+364,Austria,11.0,Municipal water withdrawal,4251.0,2010.0,0.72
+365,Belarus,57.0,Municipal water withdrawal,4251.0,1995.0,0.752
+366,Belarus,57.0,Municipal water withdrawal,4251.0,2000.0,0.8505
+367,Belarus,57.0,Municipal water withdrawal,4251.0,2005.0,0.8029999999999999
+368,Belarus,57.0,Municipal water withdrawal,4251.0,2010.0,0.5895
+369,Belarus,57.0,Municipal water withdrawal,4251.0,2017.0,0.523
+370,Belgium,255.0,Municipal water withdrawal,4251.0,1997.0,0.8740000000000001
+371,Belgium,255.0,Municipal water withdrawal,4251.0,2002.0,0.7358
+372,Belgium,255.0,Municipal water withdrawal,4251.0,2007.0,0.7304
+373,Belgium,255.0,Municipal water withdrawal,4251.0,2012.0,0.725
+374,Belgium,255.0,Municipal water withdrawal,4251.0,2015.0,0.7390000000000001
+375,Bosnia and Herzegovina,80.0,Municipal water withdrawal,4251.0,2002.0,0.3556
+376,Bosnia and Herzegovina,80.0,Municipal water withdrawal,4251.0,2007.0,0.3504
+377,Bosnia and Herzegovina,80.0,Municipal water withdrawal,4251.0,2012.0,0.3593
+378,Bosnia and Herzegovina,80.0,Municipal water withdrawal,4251.0,2017.0,0.3608
+379,Bulgaria,27.0,Municipal water withdrawal,4251.0,1988.0,0.41700000000000004
+380,Bulgaria,27.0,Municipal water withdrawal,4251.0,2002.0,1.07
+381,Bulgaria,27.0,Municipal water withdrawal,4251.0,2012.0,0.9338
+382,Bulgaria,27.0,Municipal water withdrawal,4251.0,2017.0,0.882
+383,Croatia,98.0,Municipal water withdrawal,4251.0,1997.0,0.5309
+384,Croatia,98.0,Municipal water withdrawal,4251.0,2002.0,0.5048
+385,Croatia,98.0,Municipal water withdrawal,4251.0,2007.0,0.5259
+386,Croatia,98.0,Municipal water withdrawal,4251.0,2012.0,0.513
+387,Croatia,98.0,Municipal water withdrawal,4251.0,2017.0,0.455
+388,Cyprus,50.0,Municipal water withdrawal,4251.0,1990.0,0.055
+389,Cyprus,50.0,Municipal water withdrawal,4251.0,1993.0,0.05
+390,Cyprus,50.0,Municipal water withdrawal,4251.0,2002.0,0.0461
+391,Cyprus,50.0,Municipal water withdrawal,4251.0,2007.0,0.0656
+392,Cyprus,50.0,Municipal water withdrawal,4251.0,2012.0,0.0788
+393,Cyprus,50.0,Municipal water withdrawal,4251.0,2017.0,0.11
+394,Czechia,167.0,Municipal water withdrawal,4251.0,1997.0,0.9585
+395,Czechia,167.0,Municipal water withdrawal,4251.0,2012.0,0.6371
+396,Czechia,167.0,Municipal water withdrawal,4251.0,2017.0,0.6166
+397,Denmark,54.0,Municipal water withdrawal,4251.0,1990.0,0.5710000000000001
+398,Denmark,54.0,Municipal water withdrawal,4251.0,2002.0,0.4408
+399,Denmark,54.0,Municipal water withdrawal,4251.0,2007.0,0.41100000000000003
+400,Denmark,54.0,Municipal water withdrawal,4251.0,2012.0,0.4012
+401,Denmark,54.0,Municipal water withdrawal,4251.0,2016.0,0.3815
+402,Estonia,63.0,Municipal water withdrawal,4251.0,1995.0,0.08800000000000001
+403,Estonia,63.0,Municipal water withdrawal,4251.0,2000.0,0.0852
+404,Estonia,63.0,Municipal water withdrawal,4251.0,2012.0,0.061
+405,Estonia,63.0,Municipal water withdrawal,4251.0,2017.0,0.0594
+406,Finland,67.0,Municipal water withdrawal,4251.0,1990.0,0.424
+407,Finland,67.0,Municipal water withdrawal,4251.0,1995.0,0.41200000000000003
+408,Finland,67.0,Municipal water withdrawal,4251.0,2002.0,0.40399999999999997
+409,Finland,67.0,Municipal water withdrawal,4251.0,2006.0,0.4094
+410,Finland,67.0,Municipal water withdrawal,4251.0,2011.0,0.4
+411,Finland,67.0,Municipal water withdrawal,4251.0,2017.0,0.4
+412,France,68.0,Municipal water withdrawal,4251.0,1992.0,5.982
+413,France,68.0,Municipal water withdrawal,4251.0,1997.0,5.89
+414,France,68.0,Municipal water withdrawal,4251.0,2002.0,5.966
+415,France,68.0,Municipal water withdrawal,4251.0,2007.0,5.683
+416,France,68.0,Municipal water withdrawal,4251.0,2012.0,5.38
+417,France,68.0,Municipal water withdrawal,4251.0,2016.0,5.175
+418,Germany,79.0,Municipal water withdrawal,4251.0,1995.0,5.8
+419,Germany,79.0,Municipal water withdrawal,4251.0,2001.0,5.409
+420,Germany,79.0,Municipal water withdrawal,4251.0,2016.0,4.388
+421,Greece,84.0,Municipal water withdrawal,4251.0,1997.0,0.8614
+422,Greece,84.0,Municipal water withdrawal,4251.0,2007.0,0.8462
+423,Greece,84.0,Municipal water withdrawal,4251.0,2012.0,1.526
+424,Greece,84.0,Municipal water withdrawal,4251.0,2016.0,1.9909999999999999
+425,Hungary,97.0,Municipal water withdrawal,4251.0,1992.0,0.9841
+426,Hungary,97.0,Municipal water withdrawal,4251.0,1996.0,0.8288
+427,Hungary,97.0,Municipal water withdrawal,4251.0,2002.0,0.8311
+428,Hungary,97.0,Municipal water withdrawal,4251.0,2007.0,0.7929999999999999
+429,Hungary,97.0,Municipal water withdrawal,4251.0,2012.0,0.716
+430,Hungary,97.0,Municipal water withdrawal,4251.0,2017.0,0.6245
+431,Iceland,99.0,Municipal water withdrawal,4251.0,1992.0,0.087
+432,Iceland,99.0,Municipal water withdrawal,4251.0,2002.0,0.081
+433,Iceland,99.0,Municipal water withdrawal,4251.0,2004.0,0.081
+434,Iceland,99.0,Municipal water withdrawal,4251.0,2012.0,0.094
+435,Iceland,99.0,Municipal water withdrawal,4251.0,2016.0,0.08
+436,Ireland,104.0,Municipal water withdrawal,4251.0,1994.0,0.47
+437,Ireland,104.0,Municipal water withdrawal,4251.0,2002.0,0.58
+438,Ireland,104.0,Municipal water withdrawal,4251.0,2007.0,0.679
+439,Ireland,104.0,Municipal water withdrawal,4251.0,2012.0,0.628
+440,Ireland,104.0,Municipal water withdrawal,4251.0,2016.0,0.631
+441,Italy,106.0,Municipal water withdrawal,4251.0,1990.0,6.5
+442,Italy,106.0,Municipal water withdrawal,4251.0,1999.0,9.111
+443,Italy,106.0,Municipal water withdrawal,4251.0,2005.0,8.942
+444,Italy,106.0,Municipal water withdrawal,4251.0,2012.0,9.451
+445,Italy,106.0,Municipal water withdrawal,4251.0,2015.0,9.488
+446,Latvia,119.0,Municipal water withdrawal,4251.0,2007.0,0.125
+447,Latvia,119.0,Municipal water withdrawal,4251.0,2012.0,0.1631
+448,Latvia,119.0,Municipal water withdrawal,4251.0,2017.0,0.0944
+449,Liechtenstein,125.0,Municipal water withdrawal,4251.0,2017.0,0.0079
+450,Lithuania,126.0,Municipal water withdrawal,4251.0,1995.0,0.205
+451,Lithuania,126.0,Municipal water withdrawal,4251.0,2001.0,0.172
+452,Lithuania,126.0,Municipal water withdrawal,4251.0,2017.0,0.1304
+453,Luxembourg,256.0,Municipal water withdrawal,4251.0,1989.0,0.0561
+454,Luxembourg,256.0,Municipal water withdrawal,4251.0,1995.0,0.042
+455,Luxembourg,256.0,Municipal water withdrawal,4251.0,1999.0,0.0461
+456,Luxembourg,256.0,Municipal water withdrawal,4251.0,2012.0,0.0406
+457,Luxembourg,256.0,Municipal water withdrawal,4251.0,2017.0,0.0436
+458,Malta,134.0,Municipal water withdrawal,4251.0,1995.0,0.049
+459,Malta,134.0,Municipal water withdrawal,4251.0,2002.0,0.0344
+460,Malta,134.0,Municipal water withdrawal,4251.0,2003.0,0.0344
+461,Malta,134.0,Municipal water withdrawal,4251.0,2012.0,0.015
+462,Malta,134.0,Municipal water withdrawal,4251.0,2017.0,0.0374
+463,Monaco,140.0,Municipal water withdrawal,4251.0,1990.0,0.0067
+464,Monaco,140.0,Municipal water withdrawal,4251.0,1997.0,0.006
+465,Monaco,140.0,Municipal water withdrawal,4251.0,2002.0,0.0058
+466,Monaco,140.0,Municipal water withdrawal,4251.0,2007.0,0.0055
+467,Monaco,140.0,Municipal water withdrawal,4251.0,2009.0,0.005
+468,Montenegro,273.0,Municipal water withdrawal,4251.0,2008.0,0.0964
+469,Netherlands,150.0,Municipal water withdrawal,4251.0,1991.0,1.28
+470,Netherlands,150.0,Municipal water withdrawal,4251.0,1996.0,1.2670000000000001
+471,Netherlands,150.0,Municipal water withdrawal,4251.0,2001.0,1.3030000000000002
+472,Netherlands,150.0,Municipal water withdrawal,4251.0,2007.0,1.248
+473,Netherlands,150.0,Municipal water withdrawal,4251.0,2012.0,1.217
+474,Netherlands,150.0,Municipal water withdrawal,4251.0,2016.0,1.26
+475,North Macedonia,154.0,Municipal water withdrawal,4251.0,1996.0,0.215
+476,North Macedonia,154.0,Municipal water withdrawal,4251.0,2002.0,0.2121
+477,North Macedonia,154.0,Municipal water withdrawal,4251.0,2007.0,0.2264
+478,North Macedonia,154.0,Municipal water withdrawal,4251.0,2017.0,0.2775
+479,Norway,162.0,Municipal water withdrawal,4251.0,1990.0,0.75
+480,Norway,162.0,Municipal water withdrawal,4251.0,1996.0,0.7809999999999999
+481,Norway,162.0,Municipal water withdrawal,4251.0,2002.0,0.8079999999999999
+482,Norway,162.0,Municipal water withdrawal,4251.0,2007.0,0.9482
+483,Norway,162.0,Municipal water withdrawal,4251.0,2012.0,0.816
+484,Norway,162.0,Municipal water withdrawal,4251.0,2017.0,0.7753
+485,Poland,173.0,Municipal water withdrawal,4251.0,1992.0,2.84
+486,Poland,173.0,Municipal water withdrawal,4251.0,1997.0,2.292
+487,Poland,173.0,Municipal water withdrawal,4251.0,2012.0,2.031
+488,Poland,173.0,Municipal water withdrawal,4251.0,2017.0,2.028
+489,Portugal,174.0,Municipal water withdrawal,4251.0,1991.0,0.4
+490,Portugal,174.0,Municipal water withdrawal,4251.0,1998.0,0.872
+491,Portugal,174.0,Municipal water withdrawal,4251.0,2007.0,0.9763
+492,Portugal,174.0,Municipal water withdrawal,4251.0,2012.0,0.9105
+493,Portugal,174.0,Municipal water withdrawal,4251.0,2017.0,0.9141
+494,Republic of Moldova,146.0,Municipal water withdrawal,4251.0,1992.0,0.26899999999999996
+495,Republic of Moldova,146.0,Municipal water withdrawal,4251.0,2000.0,0.16399999999999998
+496,Republic of Moldova,146.0,Municipal water withdrawal,4251.0,2005.0,0.146
+497,Republic of Moldova,146.0,Municipal water withdrawal,4251.0,2017.0,0.14800000000000002
+498,Romania,183.0,Municipal water withdrawal,4251.0,1990.0,2.25
+499,Romania,183.0,Municipal water withdrawal,4251.0,1997.0,2.05
+500,Romania,183.0,Municipal water withdrawal,4251.0,2002.0,1.86
+501,Romania,183.0,Municipal water withdrawal,4251.0,2006.0,1.06
+502,Romania,183.0,Municipal water withdrawal,4251.0,2012.0,1.053
+503,Romania,183.0,Municipal water withdrawal,4251.0,2017.0,1.048
+504,Russian Federation,185.0,Municipal water withdrawal,4251.0,1994.0,14.3
+505,Russian Federation,185.0,Municipal water withdrawal,4251.0,2001.0,13.4
+506,Russian Federation,185.0,Municipal water withdrawal,4251.0,2017.0,17.71
+507,Serbia,272.0,Municipal water withdrawal,4251.0,2012.0,0.6812
+508,Serbia,272.0,Municipal water withdrawal,4251.0,2017.0,0.6595
+509,Slovakia,199.0,Municipal water withdrawal,4251.0,1997.0,0.48200000000000004
+510,Slovakia,199.0,Municipal water withdrawal,4251.0,2002.0,0.4159
+511,Slovakia,199.0,Municipal water withdrawal,4251.0,2007.0,0.3585
+512,Slovakia,199.0,Municipal water withdrawal,4251.0,2012.0,0.3058
+513,Slovakia,199.0,Municipal water withdrawal,4251.0,2017.0,0.2935
+514,Slovenia,198.0,Municipal water withdrawal,4251.0,1992.0,0.2593
+515,Slovenia,198.0,Municipal water withdrawal,4251.0,1997.0,0.2536
+516,Slovenia,198.0,Municipal water withdrawal,4251.0,2002.0,0.1871
+517,Slovenia,198.0,Municipal water withdrawal,4251.0,2007.0,0.1674
+518,Slovenia,198.0,Municipal water withdrawal,4251.0,2012.0,0.1617
+519,Slovenia,198.0,Municipal water withdrawal,4251.0,2017.0,0.1695
+520,Spain,203.0,Municipal water withdrawal,4251.0,1991.0,6.8
+521,Spain,203.0,Municipal water withdrawal,4251.0,1997.0,4.5089999999999995
+522,Spain,203.0,Municipal water withdrawal,4251.0,2002.0,5.4479999999999995
+523,Spain,203.0,Municipal water withdrawal,4251.0,2007.0,5.898
+524,Spain,203.0,Municipal water withdrawal,4251.0,2012.0,4.599
+525,Spain,203.0,Municipal water withdrawal,4251.0,2016.0,4.89
+526,Sweden,210.0,Municipal water withdrawal,4251.0,1992.0,1.016
+527,Sweden,210.0,Municipal water withdrawal,4251.0,1997.0,1.052
+528,Sweden,210.0,Municipal water withdrawal,4251.0,2002.0,1.038
+529,Sweden,210.0,Municipal water withdrawal,4251.0,2007.0,1.0
+530,Sweden,210.0,Municipal water withdrawal,4251.0,2010.0,1.0190000000000001
+531,Sweden,210.0,Municipal water withdrawal,4251.0,2015.0,0.955
+532,Switzerland,211.0,Municipal water withdrawal,4251.0,1992.0,1.192
+533,Switzerland,211.0,Municipal water withdrawal,4251.0,1997.0,1.056
+534,Switzerland,211.0,Municipal water withdrawal,4251.0,2002.0,1.069
+535,Switzerland,211.0,Municipal water withdrawal,4251.0,2006.0,0.981
+536,Switzerland,211.0,Municipal water withdrawal,4251.0,2012.0,1.202
+537,Switzerland,211.0,Municipal water withdrawal,4251.0,2017.0,0.9309999999999999
+538,Ukraine,230.0,Municipal water withdrawal,4251.0,1992.0,4.637
+539,Ukraine,230.0,Municipal water withdrawal,4251.0,2000.0,3.3110000000000004
+540,Ukraine,230.0,Municipal water withdrawal,4251.0,2005.0,3.318
+541,Ukraine,230.0,Municipal water withdrawal,4251.0,2010.0,3.266
+542,Ukraine,230.0,Municipal water withdrawal,4251.0,2017.0,2.397
+543,United Kingdom,229.0,Municipal water withdrawal,4251.0,2002.0,7.312
+544,United Kingdom,229.0,Municipal water withdrawal,4251.0,2007.0,5.99
+545,United Kingdom,229.0,Municipal water withdrawal,4251.0,2012.0,5.827999999999999
+546,United Kingdom,229.0,Municipal water withdrawal,4251.0,2016.0,6.227
+547,Albania,3.0,Total water withdrawal,4253.0,1990.0,1.2
+548,Albania,3.0,Total water withdrawal,4253.0,2000.0,1.838
+549,Albania,3.0,Total water withdrawal,4253.0,2006.0,1.311
+550,Austria,11.0,Total water withdrawal,4253.0,1990.0,3.807
+551,Austria,11.0,Total water withdrawal,4253.0,1997.0,3.6439999999999997
+552,Austria,11.0,Total water withdrawal,4253.0,2002.0,3.668
+553,Austria,11.0,Total water withdrawal,4253.0,2010.0,3.492
+554,Belarus,57.0,Total water withdrawal,4253.0,1995.0,1.98
+555,Belarus,57.0,Total water withdrawal,4253.0,2000.0,1.837
+556,Belarus,57.0,Total water withdrawal,4253.0,2005.0,1.706
+557,Belarus,57.0,Total water withdrawal,4253.0,2010.0,1.548
+558,Belarus,57.0,Total water withdrawal,4253.0,2017.0,1.3969999999999998
+559,Belgium,255.0,Total water withdrawal,4253.0,1997.0,7.69
+560,Belgium,255.0,Total water withdrawal,4253.0,2002.0,6.7379999999999995
+561,Belgium,255.0,Total water withdrawal,4253.0,2007.0,6.2170000000000005
+562,Belgium,255.0,Total water withdrawal,4253.0,2012.0,6.017
+563,Belgium,255.0,Total water withdrawal,4253.0,2015.0,3.9939999999999998
+564,Bulgaria,27.0,Total water withdrawal,4253.0,1990.0,7.494
+565,Bulgaria,27.0,Total water withdrawal,4253.0,2002.0,6.5889999999999995
+566,Bulgaria,27.0,Total water withdrawal,4253.0,2007.0,6.202000000000001
+567,Bulgaria,27.0,Total water withdrawal,4253.0,2012.0,5.715
+568,Bulgaria,27.0,Total water withdrawal,4253.0,2017.0,5.659
+569,Croatia,98.0,Total water withdrawal,4253.0,2002.0,0.5735
+570,Croatia,98.0,Total water withdrawal,4253.0,2012.0,0.6693
+571,Croatia,98.0,Total water withdrawal,4253.0,2017.0,0.715
+572,Cyprus,50.0,Total water withdrawal,4253.0,1990.0,0.226
+573,Cyprus,50.0,Total water withdrawal,4253.0,1993.0,0.21100000000000002
+574,Cyprus,50.0,Total water withdrawal,4253.0,2002.0,0.2102
+575,Cyprus,50.0,Total water withdrawal,4253.0,2007.0,0.2166
+576,Cyprus,50.0,Total water withdrawal,4253.0,2012.0,0.2558
+577,Cyprus,50.0,Total water withdrawal,4253.0,2017.0,0.311
+578,Czechia,167.0,Total water withdrawal,4253.0,1997.0,2.4930000000000003
+579,Czechia,167.0,Total water withdrawal,4253.0,2002.0,1.9080000000000001
+580,Czechia,167.0,Total water withdrawal,4253.0,2007.0,1.969
+581,Czechia,167.0,Total water withdrawal,4253.0,2012.0,1.841
+582,Czechia,167.0,Total water withdrawal,4253.0,2017.0,1.63
+583,Denmark,54.0,Total water withdrawal,4253.0,1990.0,1.261
+584,Denmark,54.0,Total water withdrawal,4253.0,1997.0,0.9325
+585,Denmark,54.0,Total water withdrawal,4253.0,2002.0,0.6679
+586,Denmark,54.0,Total water withdrawal,4253.0,2007.0,0.5708
+587,Denmark,54.0,Total water withdrawal,4253.0,2012.0,0.7285
+588,Denmark,54.0,Total water withdrawal,4253.0,2016.0,0.7411
+589,Estonia,63.0,Total water withdrawal,4253.0,1992.0,2.63
+590,Estonia,63.0,Total water withdrawal,4253.0,1995.0,1.358
+591,Estonia,63.0,Total water withdrawal,4253.0,2002.0,1.413
+592,Estonia,63.0,Total water withdrawal,4253.0,2007.0,1.834
+593,Estonia,63.0,Total water withdrawal,4253.0,2012.0,1.631
+594,Estonia,63.0,Total water withdrawal,4253.0,2017.0,1.785
+595,Finland,67.0,Total water withdrawal,4253.0,1990.0,2.347
+596,Finland,67.0,Total water withdrawal,4253.0,1995.0,2.5860000000000003
+597,Finland,67.0,Total water withdrawal,4253.0,1999.0,2.3280000000000003
+598,Finland,67.0,Total water withdrawal,4253.0,2006.0,6.562
+599,France,68.0,Total water withdrawal,4253.0,1992.0,39.22
+600,France,68.0,Total water withdrawal,4253.0,1997.0,30.34
+601,France,68.0,Total water withdrawal,4253.0,2002.0,32.37
+602,France,68.0,Total water withdrawal,4253.0,2007.0,31.41
+603,France,68.0,Total water withdrawal,4253.0,2012.0,28.06
+604,France,68.0,Total water withdrawal,4253.0,2016.0,26.44
+605,Germany,79.0,Total water withdrawal,4253.0,1991.0,46.27
+606,Germany,79.0,Total water withdrawal,4253.0,1995.0,45.2
+607,Germany,79.0,Total water withdrawal,4253.0,2001.0,39.15
+608,Germany,79.0,Total water withdrawal,4253.0,2007.0,32.3
+609,Germany,79.0,Total water withdrawal,4253.0,2010.0,33.04
+610,Germany,79.0,Total water withdrawal,4253.0,2016.0,24.44
+611,Greece,84.0,Total water withdrawal,4253.0,1992.0,8.038
+612,Greece,84.0,Total water withdrawal,4253.0,1997.0,8.695
+613,Greece,84.0,Total water withdrawal,4253.0,2002.0,9.259
+614,Greece,84.0,Total water withdrawal,4253.0,2007.0,9.63
+615,Greece,84.0,Total water withdrawal,4253.0,2012.0,9.935
+616,Greece,84.0,Total water withdrawal,4253.0,2016.0,11.24
+617,Hungary,97.0,Total water withdrawal,4253.0,1992.0,7.1370000000000005
+618,Hungary,97.0,Total water withdrawal,4253.0,1996.0,6.01
+619,Hungary,97.0,Total water withdrawal,4253.0,2002.0,5.72
+620,Hungary,97.0,Total water withdrawal,4253.0,2007.0,5.584
+621,Hungary,97.0,Total water withdrawal,4253.0,2012.0,5.051
+622,Hungary,97.0,Total water withdrawal,4253.0,2017.0,4.501
+623,Iceland,99.0,Total water withdrawal,4253.0,1992.0,0.16699999999999998
+624,Iceland,99.0,Total water withdrawal,4253.0,2002.0,0.165
+625,Iceland,99.0,Total water withdrawal,4253.0,2004.0,0.165
+626,Iceland,99.0,Total water withdrawal,4253.0,2012.0,0.2943
+627,Iceland,99.0,Total water withdrawal,4253.0,2016.0,0.26
+628,Ireland,104.0,Total water withdrawal,4253.0,1994.0,1.176
+629,Ireland,104.0,Total water withdrawal,4253.0,2007.0,0.73
+630,Ireland,104.0,Total water withdrawal,4253.0,2009.0,0.757
+631,Italy,106.0,Total water withdrawal,4253.0,2000.0,45.41
+632,Italy,106.0,Total water withdrawal,4253.0,2008.0,53.75
+633,Italy,106.0,Total water withdrawal,4253.0,2015.0,34.19
+634,Latvia,119.0,Total water withdrawal,4253.0,1995.0,0.418
+635,Latvia,119.0,Total water withdrawal,4253.0,2002.0,0.2563
+636,Latvia,119.0,Total water withdrawal,4253.0,2007.0,0.2182
+637,Latvia,119.0,Total water withdrawal,4253.0,2012.0,0.2602
+638,Latvia,119.0,Total water withdrawal,4253.0,2017.0,0.1811
+639,Lithuania,126.0,Total water withdrawal,4253.0,1995.0,4.352
+640,Lithuania,126.0,Total water withdrawal,4253.0,2001.0,2.7680000000000002
+641,Lithuania,126.0,Total water withdrawal,4253.0,2007.0,2.269
+642,Lithuania,126.0,Total water withdrawal,4253.0,2017.0,0.259
+643,Luxembourg,256.0,Total water withdrawal,4253.0,1995.0,0.0565
+644,Luxembourg,256.0,Total water withdrawal,4253.0,1999.0,0.0605
+645,Luxembourg,256.0,Total water withdrawal,4253.0,2012.0,0.0445
+646,Luxembourg,256.0,Total water withdrawal,4253.0,2017.0,0.0456
+647,Malta,134.0,Total water withdrawal,4253.0,1995.0,0.055999999999999994
+648,Malta,134.0,Total water withdrawal,4253.0,2002.0,0.0538
+649,Malta,134.0,Total water withdrawal,4253.0,2007.0,0.0557
+650,Malta,134.0,Total water withdrawal,4253.0,2012.0,0.0401
+651,Malta,134.0,Total water withdrawal,4253.0,2017.0,0.0638
+652,Monaco,140.0,Total water withdrawal,4253.0,1990.0,0.0067
+653,Monaco,140.0,Total water withdrawal,4253.0,1997.0,0.006
+654,Monaco,140.0,Total water withdrawal,4253.0,2002.0,0.0058
+655,Monaco,140.0,Total water withdrawal,4253.0,2007.0,0.0055
+656,Monaco,140.0,Total water withdrawal,4253.0,2009.0,0.005
+657,Montenegro,273.0,Total water withdrawal,4253.0,2010.0,0.1609
+658,Netherlands,150.0,Total water withdrawal,4253.0,1991.0,7.983
+659,Netherlands,150.0,Total water withdrawal,4253.0,1996.0,6.507000000000001
+660,Netherlands,150.0,Total water withdrawal,4253.0,2002.0,8.914
+661,Netherlands,150.0,Total water withdrawal,4253.0,2007.0,10.95
+662,Netherlands,150.0,Total water withdrawal,4253.0,2012.0,10.72
+663,Netherlands,150.0,Total water withdrawal,4253.0,2016.0,16.08
+664,North Macedonia,154.0,Total water withdrawal,4253.0,1996.0,1.555
+665,North Macedonia,154.0,Total water withdrawal,4253.0,2002.0,0.6332
+666,North Macedonia,154.0,Total water withdrawal,4253.0,2007.0,0.5512
+667,North Macedonia,154.0,Total water withdrawal,4253.0,2017.0,0.5235
+668,Norway,162.0,Total water withdrawal,4253.0,1996.0,2.42
+669,Norway,162.0,Total water withdrawal,4253.0,2002.0,2.399
+670,Norway,162.0,Total water withdrawal,4253.0,2007.0,3.0260000000000002
+671,Poland,173.0,Total water withdrawal,4253.0,1992.0,13.39
+672,Poland,173.0,Total water withdrawal,4253.0,1997.0,12.8
+673,Poland,173.0,Total water withdrawal,4253.0,2002.0,11.73
+674,Poland,173.0,Total water withdrawal,4253.0,2007.0,12.03
+675,Poland,173.0,Total water withdrawal,4253.0,2012.0,11.48
+676,Poland,173.0,Total water withdrawal,4253.0,2017.0,10.08
+677,Portugal,174.0,Total water withdrawal,4253.0,1991.0,8.6
+678,Portugal,174.0,Total water withdrawal,4253.0,1998.0,11.14
+679,Portugal,174.0,Total water withdrawal,4253.0,2007.0,9.151
+680,Republic of Moldova,146.0,Total water withdrawal,4253.0,1992.0,1.963
+681,Republic of Moldova,146.0,Total water withdrawal,4253.0,2007.0,1.065
+682,Republic of Moldova,146.0,Total water withdrawal,4253.0,2017.0,0.84
+683,Romania,183.0,Total water withdrawal,4253.0,1990.0,20.41
+684,Romania,183.0,Total water withdrawal,4253.0,1997.0,12.46
+685,Romania,183.0,Total water withdrawal,4253.0,2002.0,9.222000000000001
+686,Romania,183.0,Total water withdrawal,4253.0,2007.0,6.8839999999999995
+687,Romania,183.0,Total water withdrawal,4253.0,2012.0,6.482
+688,Romania,183.0,Total water withdrawal,4253.0,2017.0,6.773
+689,Russian Federation,185.0,Total water withdrawal,4253.0,1994.0,77.1
+690,Russian Federation,185.0,Total water withdrawal,4253.0,2001.0,66.2
+691,Russian Federation,185.0,Total water withdrawal,4253.0,2017.0,64.41
+692,Serbia,272.0,Total water withdrawal,4253.0,2007.0,3.958
+693,Serbia,272.0,Total water withdrawal,4253.0,2012.0,4.4030000000000005
+694,Serbia,272.0,Total water withdrawal,4253.0,2017.0,5.377000000000001
+695,Slovakia,199.0,Total water withdrawal,4253.0,1997.0,1.31
+696,Slovakia,199.0,Total water withdrawal,4253.0,2002.0,1.094
+697,Slovakia,199.0,Total water withdrawal,4253.0,2007.0,0.688
+698,Slovakia,199.0,Total water withdrawal,4253.0,2012.0,0.6653
+699,Slovakia,199.0,Total water withdrawal,4253.0,2017.0,0.5563
+700,Slovenia,198.0,Total water withdrawal,4253.0,2002.0,0.8992
+701,Slovenia,198.0,Total water withdrawal,4253.0,2007.0,0.9349
+702,Slovenia,198.0,Total water withdrawal,4253.0,2012.0,0.9281
+703,Slovenia,198.0,Total water withdrawal,4253.0,2017.0,0.9314
+704,Spain,203.0,Total water withdrawal,4253.0,1991.0,36.9
+705,Spain,203.0,Total water withdrawal,4253.0,1997.0,34.6
+706,Spain,203.0,Total water withdrawal,4253.0,2002.0,35.94
+707,Spain,203.0,Total water withdrawal,4253.0,2007.0,35.57
+708,Spain,203.0,Total water withdrawal,4253.0,2012.0,36.64
+709,Spain,203.0,Total water withdrawal,4253.0,2016.0,31.22
+710,Sweden,210.0,Total water withdrawal,4253.0,1992.0,2.9730000000000003
+711,Sweden,210.0,Total water withdrawal,4253.0,1997.0,2.7110000000000003
+712,Sweden,210.0,Total water withdrawal,4253.0,2002.0,2.676
+713,Sweden,210.0,Total water withdrawal,4253.0,2007.0,2.63
+714,Sweden,210.0,Total water withdrawal,4253.0,2010.0,2.6889999999999996
+715,Sweden,210.0,Total water withdrawal,4253.0,2015.0,2.375
+716,Switzerland,211.0,Total water withdrawal,4253.0,1992.0,2.695
+717,Switzerland,211.0,Total water withdrawal,4253.0,1997.0,2.559
+718,Switzerland,211.0,Total water withdrawal,4253.0,2002.0,2.5180000000000002
+719,Switzerland,211.0,Total water withdrawal,4253.0,2012.0,2.005
+720,Ukraine,230.0,Total water withdrawal,4253.0,1992.0,26.0
+721,Ukraine,230.0,Total water withdrawal,4253.0,2000.0,18.28
+722,Ukraine,230.0,Total water withdrawal,4253.0,2005.0,15.08
+723,Ukraine,230.0,Total water withdrawal,4253.0,2010.0,14.85
+724,Ukraine,230.0,Total water withdrawal,4253.0,2017.0,9.18
+725,United Kingdom,229.0,Total water withdrawal,4253.0,1990.0,12.05
+726,United Kingdom,229.0,Total water withdrawal,4253.0,1995.0,12.12
+727,United Kingdom,229.0,Total water withdrawal,4253.0,2002.0,15.81
+728,United Kingdom,229.0,Total water withdrawal,4253.0,2007.0,8.513
+729,United Kingdom,229.0,Total water withdrawal,4253.0,2012.0,8.214
+730,United Kingdom,229.0,Total water withdrawal,4253.0,2016.0,8.42
+731,Albania,3.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1990.0,83.33
+732,Albania,3.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2000.0,57.67
+733,Albania,3.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2006.0,39.48
+734,Austria,11.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1990.0,2.627
+735,Austria,11.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1997.0,2.7439999999999998
+736,Austria,11.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2002.0,2.7260000000000004
+737,Austria,11.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2010.0,2.208
+738,Belarus,57.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1995.0,28.69
+739,Belarus,57.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2000.0,24.06
+740,Belarus,57.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2005.0,23.97
+741,Belarus,57.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2010.0,30.43
+742,Belarus,57.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2017.0,30.85
+743,Belgium,255.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1997.0,0.2081
+744,Belgium,255.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2002.0,0.5669
+745,Belgium,255.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2007.0,0.5935
+746,Belgium,255.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2012.0,0.5983
+747,Belgium,255.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2015.0,1.127
+748,Bulgaria,27.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1990.0,29.69
+749,Bulgaria,27.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2002.0,11.28
+750,Bulgaria,27.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2007.0,14.12
+751,Bulgaria,27.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2012.0,16.61
+752,Bulgaria,27.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2017.0,14.75
+753,Croatia,98.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2002.0,1.0290000000000001
+754,Croatia,98.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2012.0,1.285
+755,Croatia,98.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2017.0,10.63
+756,Cyprus,50.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1990.0,73.45
+757,Cyprus,50.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1993.0,73.93
+758,Cyprus,50.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2002.0,76.4
+759,Cyprus,50.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2007.0,66.02
+760,Cyprus,50.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2012.0,66.85
+761,Cyprus,50.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2017.0,59.16
+762,Czechia,167.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1997.0,0.8022
+763,Czechia,167.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2002.0,0.9801
+764,Czechia,167.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2007.0,1.5130000000000001
+765,Czechia,167.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2012.0,2.347
+766,Czechia,167.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2017.0,2.859
+767,Denmark,54.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1990.0,36.88
+768,Denmark,54.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1997.0,39.57
+769,Denmark,54.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2002.0,24.73
+770,Denmark,54.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2007.0,20.59
+771,Denmark,54.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2012.0,25.57
+772,Denmark,54.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2016.0,44.08
+773,Estonia,63.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1995.0,0.5891
+774,Estonia,63.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2002.0,2.123
+775,Estonia,63.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2007.0,0.4144
+776,Estonia,63.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2012.0,0.2759
+777,Estonia,63.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2017.0,0.2521
+778,Finland,67.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1990.0,0.8522
+779,Finland,67.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1995.0,1.933
+780,Finland,67.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2002.0,2.148
+781,Finland,67.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2006.0,0.762
+782,France,68.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1992.0,12.54
+783,France,68.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1997.0,11.04
+784,France,68.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2002.0,13.26
+785,France,68.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2007.0,12.52
+786,France,68.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2012.0,10.38
+787,France,68.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2016.0,11.77
+788,Germany,79.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1991.0,3.458
+789,Germany,79.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1995.0,3.54
+790,Germany,79.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2001.0,2.912
+791,Germany,79.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2007.0,0.4077
+792,Germany,79.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2010.0,0.6383
+793,Germany,79.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2016.0,1.226
+794,Greece,84.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1992.0,98.28
+795,Greece,84.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1997.0,87.41
+796,Greece,84.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2002.0,90.94
+797,Greece,84.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2007.0,87.83
+798,Greece,84.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2012.0,83.37
+799,Greece,84.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2016.0,80.44
+800,Hungary,97.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1992.0,13.3
+801,Hungary,97.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1996.0,7.581
+802,Hungary,97.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2002.0,11.88
+803,Hungary,97.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2007.0,5.468999999999999
+804,Hungary,97.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2012.0,6.375
+805,Hungary,97.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2017.0,11.52
+806,Iceland,99.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1992.0,41.92
+807,Iceland,99.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2002.0,42.42
+808,Iceland,99.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2004.0,42.42
+809,Iceland,99.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2012.0,0.1019
+810,Iceland,99.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2016.0,0.1154
+811,Ireland,104.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1994.0,15.22
+812,Italy,106.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2000.0,44.07
+813,Italy,106.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2015.0,49.72
+814,Latvia,119.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1995.0,8.612
+815,Latvia,119.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2002.0,20.76
+816,Latvia,119.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2007.0,23.19
+817,Latvia,119.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2012.0,15.68
+818,Latvia,119.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2017.0,33.96
+819,Lithuania,126.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1995.0,0.1838
+820,Lithuania,126.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2001.0,1.915
+821,Lithuania,126.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2007.0,3.605
+822,Lithuania,126.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2017.0,22.74
+823,Luxembourg,256.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1995.0,0.354
+824,Luxembourg,256.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1999.0,0.3306
+825,Luxembourg,256.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2012.0,0.4494
+826,Luxembourg,256.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2017.0,0.8772
+827,Malta,134.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1995.0,12.5
+828,Malta,134.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2002.0,35.13
+829,Malta,134.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2007.0,36.45
+830,Malta,134.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2012.0,60.1
+831,Malta,134.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2017.0,39.81
+832,Monaco,140.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1990.0,0.0
+833,Monaco,140.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1997.0,0.0
+834,Monaco,140.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2002.0,0.0
+835,Monaco,140.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2007.0,0.0
+836,Monaco,140.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2009.0,0.0
+837,Montenegro,273.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2010.0,1.057
+838,Netherlands,150.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1991.0,2.305
+839,Netherlands,150.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1996.0,3.535
+840,Netherlands,150.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2002.0,0.5901
+841,Netherlands,150.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2007.0,0.6566
+842,Netherlands,150.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2012.0,0.5616
+843,Netherlands,150.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2016.0,0.4757
+844,North Macedonia,154.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1996.0,68.55
+845,North Macedonia,154.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2002.0,44.44
+846,North Macedonia,154.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2007.0,22.77
+847,North Macedonia,154.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2017.0,26.55
+848,Norway,162.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1996.0,30.17
+849,Norway,162.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2002.0,33.68
+850,Norway,162.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2007.0,27.92
+851,Poland,173.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1992.0,10.23
+852,Poland,173.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1997.0,8.461
+853,Poland,173.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2002.0,9.446
+854,Poland,173.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2007.0,9.327
+855,Poland,173.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2012.0,9.599
+856,Poland,173.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2017.0,10.1
+857,Portugal,174.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1991.0,59.3
+858,Portugal,174.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1998.0,78.7
+859,Republic of Moldova,146.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1992.0,39.48
+860,Republic of Moldova,146.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2007.0,3.38
+861,Republic of Moldova,146.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2017.0,5.0
+862,Romania,183.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1990.0,44.59
+863,Romania,183.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1997.0,23.92
+864,Romania,183.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2002.0,12.93
+865,Romania,183.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2007.0,15.96
+866,Romania,183.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2012.0,16.86
+867,Romania,183.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2017.0,22.01
+868,Russian Federation,185.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1994.0,19.84
+869,Russian Federation,185.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2001.0,19.94
+870,Russian Federation,185.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2017.0,28.97
+871,Serbia,272.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2007.0,3.239
+872,Serbia,272.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2012.0,14.18
+873,Serbia,272.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2017.0,12.29
+874,Slovakia,199.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1997.0,5.115
+875,Slovakia,199.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2002.0,5.119
+876,Slovakia,199.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2007.0,3.27
+877,Slovakia,199.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2012.0,4.614
+878,Slovakia,199.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2017.0,5.68
+879,Slovenia,198.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2002.0,0.7340000000000001
+880,Slovenia,198.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2007.0,0.49200000000000005
+881,Slovenia,198.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2012.0,0.2478
+882,Slovenia,198.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2017.0,0.4187
+883,Spain,203.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1991.0,64.23
+884,Spain,203.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1997.0,67.66
+885,Spain,203.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2002.0,64.11
+886,Spain,203.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2007.0,65.17
+887,Spain,203.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2012.0,69.51
+888,Spain,203.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2016.0,65.21
+889,Sweden,210.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1992.0,5.853
+890,Sweden,210.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1997.0,5.5329999999999995
+891,Sweden,210.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2002.0,5.045
+892,Sweden,210.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2007.0,4.0680000000000005
+893,Sweden,210.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2010.0,3.6439999999999997
+894,Sweden,210.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2015.0,3.158
+895,Switzerland,211.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2002.0,1.986
+896,Switzerland,211.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2012.0,7.985
+897,Ukraine,230.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1992.0,30.25
+898,Ukraine,230.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2000.0,30.01
+899,Ukraine,230.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2005.0,30.01
+900,Ukraine,230.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2010.0,29.99
+901,Ukraine,230.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2017.0,34.92
+902,United Kingdom,229.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1990.0,5.544
+903,United Kingdom,229.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,1995.0,14.22
+904,United Kingdom,229.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2002.0,8.273
+905,United Kingdom,229.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2007.0,15.62
+906,United Kingdom,229.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2012.0,12.77
+907,United Kingdom,229.0,Agricultural water withdrawal as % of total water withdrawal,4254.0,2016.0,14.05
+908,Albania,3.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1990.0,8.333
+909,Albania,3.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2000.0,12.37
+910,Albania,3.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2006.0,17.68
+911,Austria,11.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1990.0,79.38
+912,Austria,11.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1997.0,78.4
+913,Austria,11.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2002.0,79.03
+914,Austria,11.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2010.0,77.18
+915,Belarus,57.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1995.0,33.33
+916,Belarus,57.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2000.0,29.64
+917,Belarus,57.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2005.0,28.96
+918,Belarus,57.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2010.0,31.49
+919,Belarus,57.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2017.0,31.71
+920,Belgium,255.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1997.0,88.43
+921,Belgium,255.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2002.0,88.51
+922,Belgium,255.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2007.0,87.66
+923,Belgium,255.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2012.0,87.35
+924,Belgium,255.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2015.0,80.37
+925,Bulgaria,27.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1990.0,64.75
+926,Bulgaria,27.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2002.0,72.48
+927,Bulgaria,27.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2012.0,66.79
+928,Bulgaria,27.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2017.0,69.66
+929,Croatia,98.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2002.0,10.95
+930,Croatia,98.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2012.0,22.07
+931,Croatia,98.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2017.0,25.73
+932,Cyprus,50.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1990.0,2.2119999999999997
+933,Cyprus,50.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1993.0,2.37
+934,Cyprus,50.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2002.0,1.665
+935,Cyprus,50.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2007.0,3.693
+936,Cyprus,50.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2012.0,2.346
+937,Cyprus,50.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2017.0,5.466
+938,Czechia,167.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1997.0,60.73
+939,Czechia,167.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2017.0,59.34
+940,Denmark,54.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1990.0,17.84
+941,Denmark,54.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2002.0,9.267999999999999
+942,Denmark,54.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2007.0,7.4110000000000005
+943,Denmark,54.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2012.0,19.35
+944,Denmark,54.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2016.0,4.439
+945,Estonia,63.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1992.0,85.67
+946,Estonia,63.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1995.0,92.93
+947,Estonia,63.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2012.0,95.95
+948,Estonia,63.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2017.0,96.41
+949,Finland,67.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1990.0,81.08
+950,Finland,67.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1995.0,82.13
+951,France,68.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1992.0,72.21
+952,France,68.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1997.0,69.55
+953,France,68.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2002.0,68.3
+954,France,68.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2007.0,69.37
+955,France,68.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2012.0,70.46
+956,France,68.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2016.0,68.65
+957,Germany,79.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1995.0,83.63
+958,Germany,79.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2001.0,83.27
+959,Germany,79.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2016.0,80.81
+960,Greece,84.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1997.0,2.69
+961,Greece,84.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2007.0,3.38
+962,Greece,84.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2012.0,1.268
+963,Greece,84.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2016.0,1.8530000000000002
+964,Hungary,97.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1992.0,72.92
+965,Hungary,97.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1996.0,78.64
+966,Hungary,97.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2002.0,73.58
+967,Hungary,97.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2007.0,80.34
+968,Hungary,97.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2012.0,79.45
+969,Hungary,97.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2017.0,74.61
+970,Iceland,99.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1992.0,5.9879999999999995
+971,Iceland,99.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2002.0,8.485
+972,Iceland,99.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2004.0,8.485
+973,Iceland,99.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2012.0,67.96
+974,Iceland,99.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2016.0,76.15
+975,Ireland,104.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1994.0,44.81
+976,Ireland,104.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2007.0,6.986000000000001
+977,Italy,106.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2000.0,35.87
+978,Italy,106.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2015.0,22.52
+979,Latvia,119.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2007.0,19.52
+980,Latvia,119.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2012.0,21.64
+981,Latvia,119.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2017.0,13.91
+982,Lithuania,126.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1995.0,95.11
+983,Lithuania,126.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2001.0,91.87
+984,Lithuania,126.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2017.0,26.91
+985,Luxembourg,256.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1995.0,25.49
+986,Luxembourg,256.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1999.0,23.47
+987,Luxembourg,256.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2012.0,8.315
+988,Luxembourg,256.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2017.0,3.509
+989,Malta,134.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1995.0,0.0
+990,Malta,134.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2002.0,0.9294
+991,Malta,134.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2007.0,1.795
+992,Malta,134.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2012.0,2.494
+993,Malta,134.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2017.0,1.567
+994,Monaco,140.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1990.0,0.0
+995,Monaco,140.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1997.0,0.0
+996,Monaco,140.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2002.0,0.0
+997,Monaco,140.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2007.0,0.0
+998,Monaco,140.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2009.0,0.0
+999,Montenegro,273.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2010.0,39.03
+1000,Netherlands,150.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1991.0,81.66
+1001,Netherlands,150.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1996.0,76.99
+1002,Netherlands,150.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2002.0,84.79
+1003,Netherlands,150.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2007.0,87.94
+1004,Netherlands,150.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2012.0,88.12
+1005,Netherlands,150.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2016.0,91.67
+1006,North Macedonia,154.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1996.0,17.62
+1007,North Macedonia,154.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2002.0,22.06
+1008,North Macedonia,154.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2007.0,36.16
+1009,North Macedonia,154.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2017.0,20.44
+1010,Norway,162.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1996.0,37.56
+1011,Norway,162.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2002.0,32.64
+1012,Norway,162.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2007.0,40.75
+1013,Poland,173.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1992.0,68.56
+1014,Poland,173.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1997.0,73.63
+1015,Poland,173.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2012.0,66.65
+1016,Poland,173.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2017.0,69.79
+1017,Portugal,174.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1991.0,36.05
+1018,Portugal,174.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1998.0,13.44
+1019,Republic of Moldova,146.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1992.0,46.82
+1020,Republic of Moldova,146.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2007.0,82.86
+1021,Republic of Moldova,146.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2017.0,77.38
+1022,Romania,183.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1990.0,44.39
+1023,Romania,183.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1997.0,59.63
+1024,Romania,183.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2002.0,66.91
+1025,Romania,183.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2007.0,54.47
+1026,Romania,183.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2012.0,66.89
+1027,Romania,183.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2017.0,62.51
+1028,Russian Federation,185.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1994.0,61.61
+1029,Russian Federation,185.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2001.0,59.82
+1030,Russian Federation,185.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2017.0,43.53
+1031,Serbia,272.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2012.0,70.34
+1032,Serbia,272.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2017.0,75.45
+1033,Slovakia,199.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1997.0,58.09
+1034,Slovakia,199.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2002.0,56.9
+1035,Slovakia,199.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2007.0,44.62
+1036,Slovakia,199.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2012.0,49.42
+1037,Slovakia,199.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2017.0,41.56
+1038,Slovenia,198.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2002.0,78.46
+1039,Slovenia,198.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2007.0,81.6
+1040,Slovenia,198.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2012.0,82.33
+1041,Slovenia,198.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2017.0,81.38
+1042,Spain,203.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1991.0,17.34
+1043,Spain,203.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1997.0,19.31
+1044,Spain,203.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2002.0,20.72
+1045,Spain,203.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2007.0,18.26
+1046,Spain,203.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2012.0,17.94
+1047,Spain,203.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2016.0,19.11
+1048,Sweden,210.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1992.0,59.97
+1049,Sweden,210.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1997.0,55.66
+1050,Sweden,210.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2002.0,56.17
+1051,Sweden,210.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2007.0,57.91
+1052,Sweden,210.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2010.0,58.46
+1053,Sweden,210.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2015.0,56.63
+1054,Switzerland,211.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2012.0,32.05
+1055,Ukraine,230.0,Industrial water withdrawal as % of total water withdrawal,4256.0,1992.0,51.92
+1056,Ukraine,230.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2000.0,51.89
+1057,Ukraine,230.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2005.0,48.01
+1058,Ukraine,230.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2010.0,47.99
+1059,Ukraine,230.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2017.0,38.97
+1060,United Kingdom,229.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2002.0,45.48
+1061,United Kingdom,229.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2007.0,14.01
+1062,United Kingdom,229.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2012.0,13.66
+1063,United Kingdom,229.0,Industrial water withdrawal as % of total water withdrawal,4256.0,2016.0,12.0
+1064,Albania,3.0,Municipal water withdrawal as % of total withdrawal,4255.0,1990.0,8.333
+1065,Albania,3.0,Municipal water withdrawal as % of total withdrawal,4255.0,2000.0,29.95
+1066,Albania,3.0,Municipal water withdrawal as % of total withdrawal,4255.0,2006.0,42.81
+1067,Austria,11.0,Municipal water withdrawal as % of total withdrawal,4255.0,1990.0,18.0
+1068,Austria,11.0,Municipal water withdrawal as % of total withdrawal,4255.0,1997.0,18.86
+1069,Austria,11.0,Municipal water withdrawal as % of total withdrawal,4255.0,2002.0,18.23
+1070,Austria,11.0,Municipal water withdrawal as % of total withdrawal,4255.0,2010.0,20.62
+1071,Belarus,57.0,Municipal water withdrawal as % of total withdrawal,4255.0,1995.0,37.98
+1072,Belarus,57.0,Municipal water withdrawal as % of total withdrawal,4255.0,2000.0,46.3
+1073,Belarus,57.0,Municipal water withdrawal as % of total withdrawal,4255.0,2005.0,47.07
+1074,Belarus,57.0,Municipal water withdrawal as % of total withdrawal,4255.0,2010.0,38.08
+1075,Belarus,57.0,Municipal water withdrawal as % of total withdrawal,4255.0,2017.0,37.44
+1076,Belgium,255.0,Municipal water withdrawal as % of total withdrawal,4255.0,1997.0,11.37
+1077,Belgium,255.0,Municipal water withdrawal as % of total withdrawal,4255.0,2002.0,10.92
+1078,Belgium,255.0,Municipal water withdrawal as % of total withdrawal,4255.0,2007.0,11.75
+1079,Belgium,255.0,Municipal water withdrawal as % of total withdrawal,4255.0,2012.0,12.05
+1080,Belgium,255.0,Municipal water withdrawal as % of total withdrawal,4255.0,2015.0,18.5
+1081,Bulgaria,27.0,Municipal water withdrawal as % of total withdrawal,4255.0,1990.0,5.564
+1082,Bulgaria,27.0,Municipal water withdrawal as % of total withdrawal,4255.0,2002.0,16.24
+1083,Bulgaria,27.0,Municipal water withdrawal as % of total withdrawal,4255.0,2012.0,16.34
+1084,Bulgaria,27.0,Municipal water withdrawal as % of total withdrawal,4255.0,2017.0,15.59
+1085,Croatia,98.0,Municipal water withdrawal as % of total withdrawal,4255.0,2002.0,88.02
+1086,Croatia,98.0,Municipal water withdrawal as % of total withdrawal,4255.0,2012.0,76.65
+1087,Croatia,98.0,Municipal water withdrawal as % of total withdrawal,4255.0,2017.0,63.64
+1088,Cyprus,50.0,Municipal water withdrawal as % of total withdrawal,4255.0,1990.0,24.34
+1089,Cyprus,50.0,Municipal water withdrawal as % of total withdrawal,4255.0,1993.0,23.7
+1090,Cyprus,50.0,Municipal water withdrawal as % of total withdrawal,4255.0,2002.0,21.93
+1091,Cyprus,50.0,Municipal water withdrawal as % of total withdrawal,4255.0,2007.0,30.29
+1092,Cyprus,50.0,Municipal water withdrawal as % of total withdrawal,4255.0,2012.0,30.81
+1093,Cyprus,50.0,Municipal water withdrawal as % of total withdrawal,4255.0,2017.0,35.37
+1094,Czechia,167.0,Municipal water withdrawal as % of total withdrawal,4255.0,1997.0,38.45
+1095,Czechia,167.0,Municipal water withdrawal as % of total withdrawal,4255.0,2012.0,34.61
+1096,Czechia,167.0,Municipal water withdrawal as % of total withdrawal,4255.0,2017.0,37.83
+1097,Denmark,54.0,Municipal water withdrawal as % of total withdrawal,4255.0,1990.0,45.28
+1098,Denmark,54.0,Municipal water withdrawal as % of total withdrawal,4255.0,2002.0,66.0
+1099,Denmark,54.0,Municipal water withdrawal as % of total withdrawal,4255.0,2007.0,72.0
+1100,Denmark,54.0,Municipal water withdrawal as % of total withdrawal,4255.0,2012.0,55.07
+1101,Denmark,54.0,Municipal water withdrawal as % of total withdrawal,4255.0,2016.0,51.48
+1102,Estonia,63.0,Municipal water withdrawal as % of total withdrawal,4255.0,1995.0,6.48
+1103,Estonia,63.0,Municipal water withdrawal as % of total withdrawal,4255.0,2002.0,6.03
+1104,Estonia,63.0,Municipal water withdrawal as % of total withdrawal,4255.0,2012.0,3.74
+1105,Estonia,63.0,Municipal water withdrawal as % of total withdrawal,4255.0,2017.0,3.3280000000000003
+1106,Finland,67.0,Municipal water withdrawal as % of total withdrawal,4255.0,1990.0,18.07
+1107,Finland,67.0,Municipal water withdrawal as % of total withdrawal,4255.0,1995.0,15.93
+1108,Finland,67.0,Municipal water withdrawal as % of total withdrawal,4255.0,2002.0,17.35
+1109,Finland,67.0,Municipal water withdrawal as % of total withdrawal,4255.0,2006.0,6.239
+1110,France,68.0,Municipal water withdrawal as % of total withdrawal,4255.0,1992.0,15.25
+1111,France,68.0,Municipal water withdrawal as % of total withdrawal,4255.0,1997.0,19.41
+1112,France,68.0,Municipal water withdrawal as % of total withdrawal,4255.0,2002.0,18.43
+1113,France,68.0,Municipal water withdrawal as % of total withdrawal,4255.0,2007.0,18.09
+1114,France,68.0,Municipal water withdrawal as % of total withdrawal,4255.0,2012.0,19.17
+1115,France,68.0,Municipal water withdrawal as % of total withdrawal,4255.0,2016.0,19.57
+1116,Germany,79.0,Municipal water withdrawal as % of total withdrawal,4255.0,1995.0,12.83
+1117,Germany,79.0,Municipal water withdrawal as % of total withdrawal,4255.0,2001.0,13.82
+1118,Germany,79.0,Municipal water withdrawal as % of total withdrawal,4255.0,2016.0,17.95
+1119,Greece,84.0,Municipal water withdrawal as % of total withdrawal,4255.0,1997.0,9.907
+1120,Greece,84.0,Municipal water withdrawal as % of total withdrawal,4255.0,2007.0,8.787
+1121,Greece,84.0,Municipal water withdrawal as % of total withdrawal,4255.0,2012.0,15.36
+1122,Greece,84.0,Municipal water withdrawal as % of total withdrawal,4255.0,2016.0,17.71
+1123,Hungary,97.0,Municipal water withdrawal as % of total withdrawal,4255.0,1992.0,13.79
+1124,Hungary,97.0,Municipal water withdrawal as % of total withdrawal,4255.0,1996.0,13.79
+1125,Hungary,97.0,Municipal water withdrawal as % of total withdrawal,4255.0,2002.0,14.53
+1126,Hungary,97.0,Municipal water withdrawal as % of total withdrawal,4255.0,2007.0,14.2
+1127,Hungary,97.0,Municipal water withdrawal as % of total withdrawal,4255.0,2012.0,14.18
+1128,Hungary,97.0,Municipal water withdrawal as % of total withdrawal,4255.0,2017.0,13.87
+1129,Iceland,99.0,Municipal water withdrawal as % of total withdrawal,4255.0,1992.0,52.1
+1130,Iceland,99.0,Municipal water withdrawal as % of total withdrawal,4255.0,2002.0,49.09
+1131,Iceland,99.0,Municipal water withdrawal as % of total withdrawal,4255.0,2004.0,49.09
+1132,Iceland,99.0,Municipal water withdrawal as % of total withdrawal,4255.0,2012.0,31.94
+1133,Iceland,99.0,Municipal water withdrawal as % of total withdrawal,4255.0,2016.0,30.77
+1134,Ireland,104.0,Municipal water withdrawal as % of total withdrawal,4255.0,1994.0,39.97
+1135,Ireland,104.0,Municipal water withdrawal as % of total withdrawal,4255.0,2007.0,93.01
+1136,Ireland,104.0,Municipal water withdrawal as % of total withdrawal,4255.0,2012.0,82.96
+1137,Italy,106.0,Municipal water withdrawal as % of total withdrawal,4255.0,2000.0,20.06
+1138,Italy,106.0,Municipal water withdrawal as % of total withdrawal,4255.0,2012.0,17.58
+1139,Italy,106.0,Municipal water withdrawal as % of total withdrawal,4255.0,2015.0,27.75
+1140,Latvia,119.0,Municipal water withdrawal as % of total withdrawal,4255.0,2007.0,57.29
+1141,Latvia,119.0,Municipal water withdrawal as % of total withdrawal,4255.0,2012.0,62.68
+1142,Latvia,119.0,Municipal water withdrawal as % of total withdrawal,4255.0,2017.0,52.13
+1143,Lithuania,126.0,Municipal water withdrawal as % of total withdrawal,4255.0,1995.0,4.71
+1144,Lithuania,126.0,Municipal water withdrawal as % of total withdrawal,4255.0,2001.0,6.2139999999999995
+1145,Lithuania,126.0,Municipal water withdrawal as % of total withdrawal,4255.0,2017.0,50.35
+1146,Luxembourg,256.0,Municipal water withdrawal as % of total withdrawal,4255.0,1995.0,74.34
+1147,Luxembourg,256.0,Municipal water withdrawal as % of total withdrawal,4255.0,1999.0,76.2
+1148,Luxembourg,256.0,Municipal water withdrawal as % of total withdrawal,4255.0,2012.0,91.24
+1149,Luxembourg,256.0,Municipal water withdrawal as % of total withdrawal,4255.0,2017.0,95.61
+1150,Malta,134.0,Municipal water withdrawal as % of total withdrawal,4255.0,1995.0,87.5
+1151,Malta,134.0,Municipal water withdrawal as % of total withdrawal,4255.0,2002.0,63.94
+1152,Malta,134.0,Municipal water withdrawal as % of total withdrawal,4255.0,2007.0,61.76
+1153,Malta,134.0,Municipal water withdrawal as % of total withdrawal,4255.0,2012.0,37.41
+1154,Malta,134.0,Municipal water withdrawal as % of total withdrawal,4255.0,2017.0,58.62
+1155,Monaco,140.0,Municipal water withdrawal as % of total withdrawal,4255.0,1990.0,100.0
+1156,Monaco,140.0,Municipal water withdrawal as % of total withdrawal,4255.0,1997.0,100.0
+1157,Monaco,140.0,Municipal water withdrawal as % of total withdrawal,4255.0,2002.0,100.0
+1158,Monaco,140.0,Municipal water withdrawal as % of total withdrawal,4255.0,2007.0,100.0
+1159,Monaco,140.0,Municipal water withdrawal as % of total withdrawal,4255.0,2009.0,100.0
+1160,Montenegro,273.0,Municipal water withdrawal as % of total withdrawal,4255.0,2010.0,59.91
+1161,Netherlands,150.0,Municipal water withdrawal as % of total withdrawal,4255.0,1991.0,16.03
+1162,Netherlands,150.0,Municipal water withdrawal as % of total withdrawal,4255.0,1996.0,19.47
+1163,Netherlands,150.0,Municipal water withdrawal as % of total withdrawal,4255.0,2002.0,14.62
+1164,Netherlands,150.0,Municipal water withdrawal as % of total withdrawal,4255.0,2007.0,11.4
+1165,Netherlands,150.0,Municipal water withdrawal as % of total withdrawal,4255.0,2012.0,11.35
+1166,Netherlands,150.0,Municipal water withdrawal as % of total withdrawal,4255.0,2016.0,7.836
+1167,North Macedonia,154.0,Municipal water withdrawal as % of total withdrawal,4255.0,1996.0,13.83
+1168,North Macedonia,154.0,Municipal water withdrawal as % of total withdrawal,4255.0,2002.0,33.5
+1169,North Macedonia,154.0,Municipal water withdrawal as % of total withdrawal,4255.0,2007.0,41.07
+1170,North Macedonia,154.0,Municipal water withdrawal as % of total withdrawal,4255.0,2017.0,53.01
+1171,Norway,162.0,Municipal water withdrawal as % of total withdrawal,4255.0,1996.0,32.27
+1172,Norway,162.0,Municipal water withdrawal as % of total withdrawal,4255.0,2002.0,33.68
+1173,Norway,162.0,Municipal water withdrawal as % of total withdrawal,4255.0,2007.0,31.34
+1174,Poland,173.0,Municipal water withdrawal as % of total withdrawal,4255.0,1992.0,21.21
+1175,Poland,173.0,Municipal water withdrawal as % of total withdrawal,4255.0,1997.0,17.91
+1176,Poland,173.0,Municipal water withdrawal as % of total withdrawal,4255.0,2012.0,17.69
+1177,Poland,173.0,Municipal water withdrawal as % of total withdrawal,4255.0,2017.0,20.12
+1178,Portugal,174.0,Municipal water withdrawal as % of total withdrawal,4255.0,1991.0,4.651
+1179,Portugal,174.0,Municipal water withdrawal as % of total withdrawal,4255.0,1998.0,7.827999999999999
+1180,Portugal,174.0,Municipal water withdrawal as % of total withdrawal,4255.0,2007.0,10.67
+1181,Republic of Moldova,146.0,Municipal water withdrawal as % of total withdrawal,4255.0,1992.0,13.7
+1182,Republic of Moldova,146.0,Municipal water withdrawal as % of total withdrawal,4255.0,2007.0,13.71
+1183,Republic of Moldova,146.0,Municipal water withdrawal as % of total withdrawal,4255.0,2017.0,17.62
+1184,Romania,183.0,Municipal water withdrawal as % of total withdrawal,4255.0,1990.0,11.02
+1185,Romania,183.0,Municipal water withdrawal as % of total withdrawal,4255.0,1997.0,16.45
+1186,Romania,183.0,Municipal water withdrawal as % of total withdrawal,4255.0,2002.0,20.17
+1187,Romania,183.0,Municipal water withdrawal as % of total withdrawal,4255.0,2007.0,15.4
+1188,Romania,183.0,Municipal water withdrawal as % of total withdrawal,4255.0,2012.0,16.24
+1189,Romania,183.0,Municipal water withdrawal as % of total withdrawal,4255.0,2017.0,15.47
+1190,Russian Federation,185.0,Municipal water withdrawal as % of total withdrawal,4255.0,1994.0,18.55
+1191,Russian Federation,185.0,Municipal water withdrawal as % of total withdrawal,4255.0,2001.0,20.24
+1192,Russian Federation,185.0,Municipal water withdrawal as % of total withdrawal,4255.0,2017.0,27.5
+1193,Serbia,272.0,Municipal water withdrawal as % of total withdrawal,4255.0,2012.0,15.47
+1194,Serbia,272.0,Municipal water withdrawal as % of total withdrawal,4255.0,2017.0,12.27
+1195,Slovakia,199.0,Municipal water withdrawal as % of total withdrawal,4255.0,1997.0,36.79
+1196,Slovakia,199.0,Municipal water withdrawal as % of total withdrawal,4255.0,2002.0,38.02
+1197,Slovakia,199.0,Municipal water withdrawal as % of total withdrawal,4255.0,2007.0,52.11
+1198,Slovakia,199.0,Municipal water withdrawal as % of total withdrawal,4255.0,2012.0,45.96
+1199,Slovakia,199.0,Municipal water withdrawal as % of total withdrawal,4255.0,2017.0,52.76
+1200,Slovenia,198.0,Municipal water withdrawal as % of total withdrawal,4255.0,2002.0,20.81
+1201,Slovenia,198.0,Municipal water withdrawal as % of total withdrawal,4255.0,2007.0,17.91
+1202,Slovenia,198.0,Municipal water withdrawal as % of total withdrawal,4255.0,2012.0,17.42
+1203,Slovenia,198.0,Municipal water withdrawal as % of total withdrawal,4255.0,2017.0,18.2
+1204,Spain,203.0,Municipal water withdrawal as % of total withdrawal,4255.0,1991.0,18.43
+1205,Spain,203.0,Municipal water withdrawal as % of total withdrawal,4255.0,1997.0,13.03
+1206,Spain,203.0,Municipal water withdrawal as % of total withdrawal,4255.0,2002.0,15.16
+1207,Spain,203.0,Municipal water withdrawal as % of total withdrawal,4255.0,2007.0,16.58
+1208,Spain,203.0,Municipal water withdrawal as % of total withdrawal,4255.0,2012.0,12.55
+1209,Spain,203.0,Municipal water withdrawal as % of total withdrawal,4255.0,2016.0,15.66
+1210,Sweden,210.0,Municipal water withdrawal as % of total withdrawal,4255.0,1992.0,34.17
+1211,Sweden,210.0,Municipal water withdrawal as % of total withdrawal,4255.0,1997.0,38.8
+1212,Sweden,210.0,Municipal water withdrawal as % of total withdrawal,4255.0,2002.0,38.79
+1213,Sweden,210.0,Municipal water withdrawal as % of total withdrawal,4255.0,2007.0,38.02
+1214,Sweden,210.0,Municipal water withdrawal as % of total withdrawal,4255.0,2010.0,37.9
+1215,Sweden,210.0,Municipal water withdrawal as % of total withdrawal,4255.0,2015.0,40.21
+1216,Switzerland,211.0,Municipal water withdrawal as % of total withdrawal,4255.0,1992.0,44.23
+1217,Switzerland,211.0,Municipal water withdrawal as % of total withdrawal,4255.0,1997.0,41.27
+1218,Switzerland,211.0,Municipal water withdrawal as % of total withdrawal,4255.0,2002.0,42.45
+1219,Switzerland,211.0,Municipal water withdrawal as % of total withdrawal,4255.0,2012.0,59.95
+1220,Ukraine,230.0,Municipal water withdrawal as % of total withdrawal,4255.0,1992.0,17.83
+1221,Ukraine,230.0,Municipal water withdrawal as % of total withdrawal,4255.0,2000.0,18.11
+1222,Ukraine,230.0,Municipal water withdrawal as % of total withdrawal,4255.0,2005.0,22.0
+1223,Ukraine,230.0,Municipal water withdrawal as % of total withdrawal,4255.0,2010.0,21.99
+1224,Ukraine,230.0,Municipal water withdrawal as % of total withdrawal,4255.0,2017.0,26.11
+1225,United Kingdom,229.0,Municipal water withdrawal as % of total withdrawal,4255.0,2002.0,46.25
+1226,United Kingdom,229.0,Municipal water withdrawal as % of total withdrawal,4255.0,2007.0,70.36
+1227,United Kingdom,229.0,Municipal water withdrawal as % of total withdrawal,4255.0,2012.0,70.95
+1228,United Kingdom,229.0,Municipal water withdrawal as % of total withdrawal,4255.0,2016.0,73.95
+1229,Albania,3.0,Total water withdrawal per capita,4257.0,1990.0,370.3
+1230,Albania,3.0,Total water withdrawal per capita,4257.0,2000.0,589.3
+1231,Albania,3.0,Total water withdrawal per capita,4257.0,2006.0,433.5
+1232,Austria,11.0,Total water withdrawal per capita,4257.0,1990.0,486.1
+1233,Austria,11.0,Total water withdrawal per capita,4257.0,1997.0,453.6
+1234,Austria,11.0,Total water withdrawal per capita,4257.0,2002.0,450.9
+1235,Austria,11.0,Total water withdrawal per capita,4257.0,2010.0,410.0
+1236,Belarus,57.0,Total water withdrawal per capita,4257.0,1995.0,196.6
+1237,Belarus,57.0,Total water withdrawal per capita,4257.0,2000.0,187.3
+1238,Belarus,57.0,Total water withdrawal per capita,4257.0,2005.0,178.9
+1239,Belarus,57.0,Total water withdrawal per capita,4257.0,2010.0,163.4
+1240,Belarus,57.0,Total water withdrawal per capita,4257.0,2017.0,147.5
+1241,Belgium,255.0,Total water withdrawal per capita,4257.0,1997.0,754.4
+1242,Belgium,255.0,Total water withdrawal per capita,4257.0,2002.0,650.1
+1243,Belgium,255.0,Total water withdrawal per capita,4257.0,2007.0,581.1
+1244,Belgium,255.0,Total water withdrawal per capita,4257.0,2012.0,542.9
+1245,Belgium,255.0,Total water withdrawal per capita,4257.0,2015.0,349.5
+1246,Bulgaria,27.0,Total water withdrawal per capita,4257.0,1990.0,863.8
+1247,Bulgaria,27.0,Total water withdrawal per capita,4257.0,2002.0,837.7
+1248,Bulgaria,27.0,Total water withdrawal per capita,4257.0,2007.0,819.6
+1249,Bulgaria,27.0,Total water withdrawal per capita,4257.0,2012.0,781.8
+1250,Bulgaria,27.0,Total water withdrawal per capita,4257.0,2017.0,798.7
+1251,Croatia,98.0,Total water withdrawal per capita,4257.0,2002.0,130.5
+1252,Croatia,98.0,Total water withdrawal per capita,4257.0,2012.0,155.8
+1253,Croatia,98.0,Total water withdrawal per capita,4257.0,2017.0,170.7
+1254,Cyprus,50.0,Total water withdrawal per capita,4257.0,1990.0,282.3
+1255,Cyprus,50.0,Total water withdrawal per capita,4257.0,1993.0,236.8
+1256,Cyprus,50.0,Total water withdrawal per capita,4257.0,2002.0,215.1
+1257,Cyprus,50.0,Total water withdrawal per capita,4257.0,2007.0,203.6
+1258,Cyprus,50.0,Total water withdrawal per capita,4257.0,2012.0,225.4
+1259,Cyprus,50.0,Total water withdrawal per capita,4257.0,2017.0,263.6
+1260,Czechia,167.0,Total water withdrawal per capita,4257.0,1997.0,241.1
+1261,Czechia,167.0,Total water withdrawal per capita,4257.0,2002.0,186.1
+1262,Czechia,167.0,Total water withdrawal per capita,4257.0,2007.0,190.1
+1263,Czechia,167.0,Total water withdrawal per capita,4257.0,2012.0,173.9
+1264,Czechia,167.0,Total water withdrawal per capita,4257.0,2017.0,153.5
+1265,Denmark,54.0,Total water withdrawal per capita,4257.0,1990.0,243.8
+1266,Denmark,54.0,Total water withdrawal per capita,4257.0,1997.0,176.7
+1267,Denmark,54.0,Total water withdrawal per capita,4257.0,2002.0,124.3
+1268,Denmark,54.0,Total water withdrawal per capita,4257.0,2007.0,104.4
+1269,Denmark,54.0,Total water withdrawal per capita,4257.0,2012.0,129.8
+1270,Denmark,54.0,Total water withdrawal per capita,4257.0,2016.0,129.2
+1271,Estonia,63.0,Total water withdrawal per capita,4257.0,1992.0,1729.0
+1272,Estonia,63.0,Total water withdrawal per capita,4257.0,1995.0,963.1
+1273,Estonia,63.0,Total water withdrawal per capita,4257.0,2002.0,1022.0
+1274,Estonia,63.0,Total water withdrawal per capita,4257.0,2007.0,1365.0
+1275,Estonia,63.0,Total water withdrawal per capita,4257.0,2012.0,1231.0
+1276,Estonia,63.0,Total water withdrawal per capita,4257.0,2017.0,1363.0
+1277,Finland,67.0,Total water withdrawal per capita,4257.0,1990.0,465.2
+1278,Finland,67.0,Total water withdrawal per capita,4257.0,1995.0,501.9
+1279,Finland,67.0,Total water withdrawal per capita,4257.0,1999.0,446.6
+1280,Finland,67.0,Total water withdrawal per capita,4257.0,2006.0,1239.0
+1281,France,68.0,Total water withdrawal per capita,4257.0,1992.0,682.1
+1282,France,68.0,Total water withdrawal per capita,4257.0,1997.0,516.3
+1283,France,68.0,Total water withdrawal per capita,4257.0,2002.0,537.5
+1284,France,68.0,Total water withdrawal per capita,4257.0,2007.0,506.9
+1285,France,68.0,Total water withdrawal per capita,4257.0,2012.0,440.9
+1286,France,68.0,Total water withdrawal per capita,4257.0,2016.0,406.9
+1287,Germany,79.0,Total water withdrawal per capita,4257.0,1991.0,578.0
+1288,Germany,79.0,Total water withdrawal per capita,4257.0,1995.0,554.6
+1289,Germany,79.0,Total water withdrawal per capita,4257.0,2001.0,479.7
+1290,Germany,79.0,Total water withdrawal per capita,4257.0,2007.0,397.1
+1291,Germany,79.0,Total water withdrawal per capita,4257.0,2010.0,407.6
+1292,Germany,79.0,Total water withdrawal per capita,4257.0,2016.0,297.6
+1293,Greece,84.0,Total water withdrawal per capita,4257.0,1992.0,769.1
+1294,Greece,84.0,Total water withdrawal per capita,4257.0,1997.0,793.3
+1295,Greece,84.0,Total water withdrawal per capita,4257.0,2002.0,825.4
+1296,Greece,84.0,Total water withdrawal per capita,4257.0,2007.0,846.1
+1297,Greece,84.0,Total water withdrawal per capita,4257.0,2012.0,873.2
+1298,Greece,84.0,Total water withdrawal per capita,4257.0,2016.0,1007.0
+1299,Hungary,97.0,Total water withdrawal per capita,4257.0,1992.0,689.0
+1300,Hungary,97.0,Total water withdrawal per capita,4257.0,1996.0,583.0
+1301,Hungary,97.0,Total water withdrawal per capita,4257.0,2002.0,562.5
+1302,Hungary,97.0,Total water withdrawal per capita,4257.0,2007.0,557.1
+1303,Hungary,97.0,Total water withdrawal per capita,4257.0,2012.0,511.8
+1304,Hungary,97.0,Total water withdrawal per capita,4257.0,2017.0,463.0
+1305,Iceland,99.0,Total water withdrawal per capita,4257.0,1992.0,641.8
+1306,Iceland,99.0,Total water withdrawal per capita,4257.0,2002.0,578.3
+1307,Iceland,99.0,Total water withdrawal per capita,4257.0,2004.0,540.6
+1308,Iceland,99.0,Total water withdrawal per capita,4257.0,2012.0,904.1
+1309,Iceland,99.0,Total water withdrawal per capita,4257.0,2016.0,776.1
+1310,Ireland,104.0,Total water withdrawal per capita,4257.0,1994.0,316.8
+1311,Ireland,104.0,Total water withdrawal per capita,4257.0,2007.0,166.0
+1312,Ireland,104.0,Total water withdrawal per capita,4257.0,2009.0,161.8
+1313,Italy,106.0,Total water withdrawal per capita,4257.0,2000.0,785.6
+1314,Italy,106.0,Total water withdrawal per capita,4257.0,2008.0,899.8
+1315,Italy,106.0,Total water withdrawal per capita,4257.0,2015.0,576.0
+1316,Latvia,119.0,Total water withdrawal per capita,4257.0,1995.0,170.4
+1317,Latvia,119.0,Total water withdrawal per capita,4257.0,2002.0,109.9
+1318,Latvia,119.0,Total water withdrawal per capita,4257.0,2007.0,99.23
+1319,Latvia,119.0,Total water withdrawal per capita,4257.0,2012.0,125.9
+1320,Latvia,119.0,Total water withdrawal per capita,4257.0,2017.0,92.87
+1321,Lithuania,126.0,Total water withdrawal per capita,4257.0,1995.0,1216.0
+1322,Lithuania,126.0,Total water withdrawal per capita,4257.0,2001.0,803.5
+1323,Lithuania,126.0,Total water withdrawal per capita,4257.0,2007.0,696.0
+1324,Lithuania,126.0,Total water withdrawal per capita,4257.0,2017.0,89.62
+1325,Luxembourg,256.0,Total water withdrawal per capita,4257.0,1995.0,130.5
+1326,Luxembourg,256.0,Total water withdrawal per capita,4257.0,1999.0,136.4
+1327,Luxembourg,256.0,Total water withdrawal per capita,4257.0,2012.0,83.58
+1328,Luxembourg,256.0,Total water withdrawal per capita,4257.0,2017.0,78.15
+1329,Malta,134.0,Total water withdrawal per capita,4257.0,1995.0,144.6
+1330,Malta,134.0,Total water withdrawal per capita,4257.0,2002.0,134.1
+1331,Malta,134.0,Total water withdrawal per capita,4257.0,2007.0,135.8
+1332,Malta,134.0,Total water withdrawal per capita,4257.0,2012.0,95.29
+1333,Malta,134.0,Total water withdrawal per capita,4257.0,2017.0,148.1
+1334,Monaco,140.0,Total water withdrawal per capita,4257.0,1990.0,224.4
+1335,Monaco,140.0,Total water withdrawal per capita,4257.0,1997.0,192.0
+1336,Monaco,140.0,Total water withdrawal per capita,4257.0,2002.0,177.8
+1337,Monaco,140.0,Total water withdrawal per capita,4257.0,2007.0,156.7
+1338,Monaco,140.0,Total water withdrawal per capita,4257.0,2009.0,132.3
+1339,Montenegro,273.0,Total water withdrawal per capita,4257.0,2010.0,256.9
+1340,Netherlands,150.0,Total water withdrawal per capita,4257.0,1991.0,526.4
+1341,Netherlands,150.0,Total water withdrawal per capita,4257.0,1996.0,415.6
+1342,Netherlands,150.0,Total water withdrawal per capita,4257.0,2002.0,553.3
+1343,Netherlands,150.0,Total water withdrawal per capita,4257.0,2007.0,663.4
+1344,Netherlands,150.0,Total water withdrawal per capita,4257.0,2012.0,638.5
+1345,Netherlands,150.0,Total water withdrawal per capita,4257.0,2016.0,943.9
+1346,North Macedonia,154.0,Total water withdrawal per capita,4257.0,1996.0,777.5
+1347,North Macedonia,154.0,Total water withdrawal per capita,4257.0,2002.0,309.0
+1348,North Macedonia,154.0,Total water withdrawal per capita,4257.0,2007.0,266.9
+1349,North Macedonia,154.0,Total water withdrawal per capita,4257.0,2017.0,251.3
+1350,Norway,162.0,Total water withdrawal per capita,4257.0,1996.0,547.5
+1351,Norway,162.0,Total water withdrawal per capita,4257.0,2002.0,527.7
+1352,Norway,162.0,Total water withdrawal per capita,4257.0,2007.0,641.1
+1353,Poland,173.0,Total water withdrawal per capita,4257.0,1992.0,350.6
+1354,Poland,173.0,Total water withdrawal per capita,4257.0,1997.0,332.1
+1355,Poland,173.0,Total water withdrawal per capita,4257.0,2002.0,304.8
+1356,Poland,173.0,Total water withdrawal per capita,4257.0,2007.0,313.9
+1357,Poland,173.0,Total water withdrawal per capita,4257.0,2012.0,299.6
+1358,Poland,173.0,Total water withdrawal per capita,4257.0,2017.0,264.1
+1359,Portugal,174.0,Total water withdrawal per capita,4257.0,1991.0,859.1
+1360,Portugal,174.0,Total water withdrawal per capita,4257.0,1998.0,1067.0
+1361,Portugal,174.0,Total water withdrawal per capita,4257.0,2007.0,860.9
+1362,Republic of Moldova,146.0,Total water withdrawal per capita,4257.0,1992.0,448.7
+1363,Republic of Moldova,146.0,Total water withdrawal per capita,4257.0,2007.0,257.9
+1364,Republic of Moldova,146.0,Total water withdrawal per capita,4257.0,2017.0,207.4
+1365,Romania,183.0,Total water withdrawal per capita,4257.0,1990.0,873.2
+1366,Romania,183.0,Total water withdrawal per capita,4257.0,1997.0,550.5
+1367,Romania,183.0,Total water withdrawal per capita,4257.0,2002.0,422.0
+1368,Romania,183.0,Total water withdrawal per capita,4257.0,2007.0,327.2
+1369,Romania,183.0,Total water withdrawal per capita,4257.0,2012.0,321.4
+1370,Romania,183.0,Total water withdrawal per capita,4257.0,2017.0,344.2
+1371,Russian Federation,185.0,Total water withdrawal per capita,4257.0,1994.0,521.8
+1372,Russian Federation,185.0,Total water withdrawal per capita,4257.0,2001.0,455.9
+1373,Russian Federation,185.0,Total water withdrawal per capita,4257.0,2017.0,447.3
+1374,Serbia,272.0,Total water withdrawal per capita,4257.0,2007.0,433.3
+1375,Serbia,272.0,Total water withdrawal per capita,4257.0,2012.0,491.6
+1376,Serbia,272.0,Total water withdrawal per capita,4257.0,2017.0,611.6
+1377,Slovakia,199.0,Total water withdrawal per capita,4257.0,1997.0,243.0
+1378,Slovakia,199.0,Total water withdrawal per capita,4257.0,2002.0,202.6
+1379,Slovakia,199.0,Total water withdrawal per capita,4257.0,2007.0,127.5
+1380,Slovakia,199.0,Total water withdrawal per capita,4257.0,2012.0,122.8
+1381,Slovakia,199.0,Total water withdrawal per capita,4257.0,2017.0,102.1
+1382,Slovenia,198.0,Total water withdrawal per capita,4257.0,2002.0,452.3
+1383,Slovenia,198.0,Total water withdrawal per capita,4257.0,2007.0,464.2
+1384,Slovenia,198.0,Total water withdrawal per capita,4257.0,2012.0,450.5
+1385,Slovenia,198.0,Total water withdrawal per capita,4257.0,2017.0,447.8
+1386,Spain,203.0,Total water withdrawal per capita,4257.0,1991.0,933.8
+1387,Spain,203.0,Total water withdrawal per capita,4257.0,1997.0,862.2
+1388,Spain,203.0,Total water withdrawal per capita,4257.0,2002.0,856.0
+1389,Spain,203.0,Total water withdrawal per capita,4257.0,2007.0,783.6
+1390,Spain,203.0,Total water withdrawal per capita,4257.0,2012.0,782.0
+1391,Spain,203.0,Total water withdrawal per capita,4257.0,2016.0,673.5
+1392,Sweden,210.0,Total water withdrawal per capita,4257.0,1992.0,342.2
+1393,Sweden,210.0,Total water withdrawal per capita,4257.0,1997.0,305.7
+1394,Sweden,210.0,Total water withdrawal per capita,4257.0,2002.0,300.0
+1395,Sweden,210.0,Total water withdrawal per capita,4257.0,2007.0,287.0
+1396,Sweden,210.0,Total water withdrawal per capita,4257.0,2010.0,281.8
+1397,Sweden,210.0,Total water withdrawal per capita,4257.0,2015.0,239.6
+1398,Switzerland,211.0,Total water withdrawal per capita,4257.0,1992.0,395.5
+1399,Switzerland,211.0,Total water withdrawal per capita,4257.0,1997.0,360.8
+1400,Switzerland,211.0,Total water withdrawal per capita,4257.0,2002.0,347.6
+1401,Switzerland,211.0,Total water withdrawal per capita,4257.0,2012.0,249.6
+1402,Ukraine,230.0,Total water withdrawal per capita,4257.0,1992.0,505.7
+1403,Ukraine,230.0,Total water withdrawal per capita,4257.0,2000.0,381.0
+1404,Ukraine,230.0,Total water withdrawal per capita,4257.0,2005.0,325.1
+1405,Ukraine,230.0,Total water withdrawal per capita,4257.0,2010.0,327.5
+1406,Ukraine,230.0,Total water withdrawal per capita,4257.0,2017.0,207.6
+1407,United Kingdom,229.0,Total water withdrawal per capita,4257.0,1990.0,209.6
+1408,United Kingdom,229.0,Total water withdrawal per capita,4257.0,1995.0,207.7
+1409,United Kingdom,229.0,Total water withdrawal per capita,4257.0,2002.0,266.4
+1410,United Kingdom,229.0,Total water withdrawal per capita,4257.0,2007.0,138.6
+1411,United Kingdom,229.0,Total water withdrawal per capita,4257.0,2012.0,127.8
+1412,United Kingdom,229.0,Total water withdrawal per capita,4257.0,2016.0,127.2

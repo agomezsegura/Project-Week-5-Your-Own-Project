@@ -1,0 +1,700 @@
+,Area,Area Id,Variable Name,Variable Id,Year,Value
+3,Afghanistan,2.0,SDG 6.4.2. Water Stress,4550.0,1975.0,28.89
+4,Afghanistan,2.0,SDG 6.4.2. Water Stress,4550.0,1987.0,70.49
+5,Afghanistan,2.0,SDG 6.4.2. Water Stress,4550.0,2000.0,54.75
+10,Albania,3.0,SDG 6.4.2. Water Stress,4550.0,1990.0,7.212000000000001
+11,Albania,3.0,SDG 6.4.2. Water Stress,4550.0,2000.0,11.05
+12,Albania,3.0,SDG 6.4.2. Water Stress,4550.0,2006.0,7.879
+13,Albania,3.0,SDG 6.4.2. Water Stress,4550.0,2017.0,7.138999999999999
+22,Algeria,4.0,SDG 6.4.2. Water Stress,4550.0,1970.0,28.13
+23,Algeria,4.0,SDG 6.4.2. Water Stress,4550.0,1975.0,35.16
+24,Algeria,4.0,SDG 6.4.2. Water Stress,4550.0,1980.0,42.19
+25,Algeria,4.0,SDG 6.4.2. Water Stress,4550.0,1985.0,49.23
+26,Algeria,4.0,SDG 6.4.2. Water Stress,4550.0,1990.0,62.39
+27,Algeria,4.0,SDG 6.4.2. Water Stress,4550.0,2001.0,80.25
+28,Algeria,4.0,SDG 6.4.2. Water Stress,4550.0,2012.0,109.8
+29,Algeria,4.0,SDG 6.4.2. Water Stress,4550.0,2017.0,137.9
+33,Angola,7.0,SDG 6.4.2. Water Stress,4550.0,1987.0,1.273
+34,Angola,7.0,SDG 6.4.2. Water Stress,4550.0,2000.0,1.699
+35,Angola,7.0,SDG 6.4.2. Water Stress,4550.0,2005.0,1.8719999999999999
+39,Antigua and Barbuda,8.0,SDG 6.4.2. Water Stress,4550.0,1990.0,3.2689999999999997
+40,Antigua and Barbuda,8.0,SDG 6.4.2. Water Stress,4550.0,2005.0,9.808
+41,Antigua and Barbuda,8.0,SDG 6.4.2. Water Stress,4550.0,2012.0,8.462
+45,Argentina,9.0,SDG 6.4.2. Water Stress,4550.0,1976.0,7.6579999999999995
+46,Argentina,9.0,SDG 6.4.2. Water Stress,4550.0,1995.0,7.93
+47,Argentina,9.0,SDG 6.4.2. Water Stress,4550.0,2011.0,10.46
+53,Armenia,1.0,SDG 6.4.2. Water Stress,4550.0,1997.0,37.32
+54,Armenia,1.0,SDG 6.4.2. Water Stress,4550.0,2002.0,34.94
+55,Armenia,1.0,SDG 6.4.2. Water Stress,4550.0,2007.0,57.66
+56,Armenia,1.0,SDG 6.4.2. Water Stress,4550.0,2012.0,59.33
+57,Armenia,1.0,SDG 6.4.2. Water Stress,4550.0,2017.0,57.8
+63,Australia,10.0,SDG 6.4.2. Water Stress,4550.0,1996.0,8.857999999999999
+64,Australia,10.0,SDG 6.4.2. Water Stress,4550.0,2001.0,8.645
+65,Australia,10.0,SDG 6.4.2. Water Stress,4550.0,2005.0,7.443
+66,Australia,10.0,SDG 6.4.2. Water Stress,4550.0,2012.0,6.212000000000001
+67,Australia,10.0,SDG 6.4.2. Water Stress,4550.0,2017.0,6.409
+74,Austria,11.0,SDG 6.4.2. Water Stress,4550.0,1980.0,9.229
+75,Austria,11.0,SDG 6.4.2. Water Stress,4550.0,1985.0,9.887
+76,Austria,11.0,SDG 6.4.2. Water Stress,4550.0,1990.0,10.51
+77,Austria,11.0,SDG 6.4.2. Water Stress,4550.0,1997.0,10.06
+78,Austria,11.0,SDG 6.4.2. Water Stress,4550.0,2002.0,10.13
+79,Austria,11.0,SDG 6.4.2. Water Stress,4550.0,2010.0,9.649
+86,Azerbaijan,52.0,SDG 6.4.2. Water Stress,4550.0,1992.0,71.52
+87,Azerbaijan,52.0,SDG 6.4.2. Water Stress,4550.0,1997.0,55.23
+88,Azerbaijan,52.0,SDG 6.4.2. Water Stress,4550.0,2002.0,44.46
+89,Azerbaijan,52.0,SDG 6.4.2. Water Stress,4550.0,2007.0,54.17
+90,Azerbaijan,52.0,SDG 6.4.2. Water Stress,4550.0,2012.0,52.85
+91,Azerbaijan,52.0,SDG 6.4.2. Water Stress,4550.0,2017.0,56.42
+95,Bahrain,13.0,SDG 6.4.2. Water Stress,4550.0,1990.0,161.1
+96,Bahrain,13.0,SDG 6.4.2. Water Stress,4550.0,2003.0,205.8
+97,Bahrain,13.0,SDG 6.4.2. Water Stress,4550.0,2016.0,132.2
+99,Bangladesh,16.0,SDG 6.4.2. Water Stress,4550.0,2008.0,5.724
+103,Barbados,14.0,SDG 6.4.2. Water Stress,4550.0,1962.0,37.5
+104,Barbados,14.0,SDG 6.4.2. Water Stress,4550.0,1996.0,101.2
+105,Barbados,14.0,SDG 6.4.2. Water Stress,4550.0,2005.0,87.5
+111,Belarus,57.0,SDG 6.4.2. Water Stress,4550.0,1995.0,6.526
+112,Belarus,57.0,SDG 6.4.2. Water Stress,4550.0,2000.0,6.055
+113,Belarus,57.0,SDG 6.4.2. Water Stress,4550.0,2005.0,5.622999999999999
+114,Belarus,57.0,SDG 6.4.2. Water Stress,4550.0,2010.0,5.102
+115,Belarus,57.0,SDG 6.4.2. Water Stress,4550.0,2017.0,4.604
+122,Belgium,255.0,SDG 6.4.2. Water Stress,4550.0,1980.0,110.9
+123,Belgium,255.0,SDG 6.4.2. Water Stress,4550.0,1997.0,94.47
+124,Belgium,255.0,SDG 6.4.2. Water Stress,4550.0,2002.0,82.74
+125,Belgium,255.0,SDG 6.4.2. Water Stress,4550.0,2007.0,76.34
+126,Belgium,255.0,SDG 6.4.2. Water Stress,4550.0,2012.0,65.11
+127,Belgium,255.0,SDG 6.4.2. Water Stress,4550.0,2015.0,49.07
+130,Belize,23.0,SDG 6.4.2. Water Stress,4550.0,1987.0,0.2497
+131,Belize,23.0,SDG 6.4.2. Water Stress,4550.0,2000.0,1.261
+134,Benin,53.0,SDG 6.4.2. Water Stress,4550.0,1985.0,0.8252
+135,Benin,53.0,SDG 6.4.2. Water Stress,4550.0,2001.0,0.9752
+137,Bhutan,18.0,SDG 6.4.2. Water Stress,4550.0,2008.0,1.4140000000000001
+140,Bolivia (Plurinational State of),19.0,SDG 6.4.2. Water Stress,4550.0,1987.0,0.6990000000000001
+141,Bolivia (Plurinational State of),19.0,SDG 6.4.2. Water Stress,4550.0,2009.0,1.177
+146,Bosnia and Herzegovina,80.0,SDG 6.4.2. Water Stress,4550.0,2002.0,2.4930000000000003
+147,Bosnia and Herzegovina,80.0,SDG 6.4.2. Water Stress,4550.0,2007.0,2.5869999999999997
+148,Bosnia and Herzegovina,80.0,SDG 6.4.2. Water Stress,4550.0,2012.0,2.906
+149,Bosnia and Herzegovina,80.0,SDG 6.4.2. Water Stress,4550.0,2017.0,2.662
+156,Botswana,20.0,SDG 6.4.2. Water Stress,4550.0,1985.0,0.9411
+157,Botswana,20.0,SDG 6.4.2. Water Stress,4550.0,1992.0,1.182
+158,Botswana,20.0,SDG 6.4.2. Water Stress,4550.0,1995.0,1.5
+159,Botswana,20.0,SDG 6.4.2. Water Stress,4550.0,2000.0,2.029
+160,Botswana,20.0,SDG 6.4.2. Water Stress,4550.0,2012.0,2.032
+161,Botswana,20.0,SDG 6.4.2. Water Stress,4550.0,2017.0,2.0180000000000002
+167,Brazil,21.0,SDG 6.4.2. Water Stress,4550.0,1987.0,1.6569999999999998
+168,Brazil,21.0,SDG 6.4.2. Water Stress,4550.0,1996.0,2.592
+169,Brazil,21.0,SDG 6.4.2. Water Stress,4550.0,2006.0,2.7460000000000004
+170,Brazil,21.0,SDG 6.4.2. Water Stress,4550.0,2010.0,3.536
+171,Brazil,21.0,SDG 6.4.2. Water Stress,4550.0,2017.0,3.105
+174,Brunei Darussalam,26.0,SDG 6.4.2. Water Stress,4550.0,1991.0,2.864
+175,Brunei Darussalam,26.0,SDG 6.4.2. Water Stress,4550.0,1994.0,3.466
+183,Bulgaria,27.0,SDG 6.4.2. Water Stress,4550.0,1980.0,104.8
+184,Bulgaria,27.0,SDG 6.4.2. Water Stress,4550.0,1985.0,104.1
+185,Bulgaria,27.0,SDG 6.4.2. Water Stress,4550.0,1990.0,55.39
+186,Bulgaria,27.0,SDG 6.4.2. Water Stress,4550.0,2002.0,48.7
+187,Bulgaria,27.0,SDG 6.4.2. Water Stress,4550.0,2007.0,45.84
+188,Bulgaria,27.0,SDG 6.4.2. Water Stress,4550.0,2012.0,42.24
+189,Bulgaria,27.0,SDG 6.4.2. Water Stress,4550.0,2017.0,41.82
+194,Burkina Faso,233.0,SDG 6.4.2. Water Stress,4550.0,1985.0,2.772
+195,Burkina Faso,233.0,SDG 6.4.2. Water Stress,4550.0,1992.0,3.595
+196,Burkina Faso,233.0,SDG 6.4.2. Water Stress,4550.0,2001.0,6.8420000000000005
+197,Burkina Faso,233.0,SDG 6.4.2. Water Stress,4550.0,2005.0,7.82
+200,Burundi,29.0,SDG 6.4.2. Water Stress,4550.0,1987.0,3.634
+201,Burundi,29.0,SDG 6.4.2. Water Stress,4550.0,2000.0,10.47
+203,Cabo Verde,35.0,SDG 6.4.2. Water Stress,4550.0,2001.0,6.767
+205,Cambodia,115.0,SDG 6.4.2. Water Stress,4550.0,2006.0,1.037
+209,Cameroon,32.0,SDG 6.4.2. Water Stress,4550.0,1987.0,0.5681
+210,Cameroon,32.0,SDG 6.4.2. Water Stress,4550.0,1992.0,0.5739
+211,Cameroon,32.0,SDG 6.4.2. Water Stress,4550.0,2000.0,1.3869999999999998
+218,Canada,33.0,SDG 6.4.2. Water Stress,4550.0,1986.0,4.346
+219,Canada,33.0,SDG 6.4.2. Water Stress,4550.0,1991.0,4.644
+220,Canada,33.0,SDG 6.4.2. Water Stress,4550.0,1996.0,4.3469999999999995
+221,Canada,33.0,SDG 6.4.2. Water Stress,4550.0,2007.0,4.255
+222,Canada,33.0,SDG 6.4.2. Water Stress,4550.0,2011.0,3.6660000000000004
+223,Canada,33.0,SDG 6.4.2. Water Stress,4550.0,2017.0,3.6660000000000004
+227,Central African Republic,37.0,SDG 6.4.2. Water Stress,4550.0,1987.0,0.0898
+228,Central African Republic,37.0,SDG 6.4.2. Water Stress,4550.0,2000.0,0.3065
+229,Central African Republic,37.0,SDG 6.4.2. Water Stress,4550.0,2005.0,0.3356
+233,Chad,39.0,SDG 6.4.2. Water Stress,4550.0,1987.0,0.8838
+234,Chad,39.0,SDG 6.4.2. Water Stress,4550.0,2002.0,4.146
+235,Chad,39.0,SDG 6.4.2. Water Stress,4550.0,2005.0,4.295
+238,Chile,40.0,SDG 6.4.2. Water Stress,4550.0,1992.0,5.152
+239,Chile,40.0,SDG 6.4.2. Water Stress,4550.0,2006.0,8.979
+248,China,351.0,SDG 6.4.2. Water Stress,4550.0,1980.0,32.41
+249,China,351.0,SDG 6.4.2. Water Stress,4550.0,1985.0,35.14
+250,China,351.0,SDG 6.4.2. Water Stress,4550.0,1990.0,36.52
+251,China,351.0,SDG 6.4.2. Water Stress,4550.0,1993.0,38.38
+252,China,351.0,SDG 6.4.2. Water Stress,4550.0,2000.0,40.16
+253,China,351.0,SDG 6.4.2. Water Stress,4550.0,2007.0,41.73
+254,China,351.0,SDG 6.4.2. Water Stress,4550.0,2012.0,43.81
+255,China,351.0,SDG 6.4.2. Water Stress,4550.0,2015.0,43.4
+259,Colombia,44.0,SDG 6.4.2. Water Stress,4550.0,2000.0,1.16
+260,Colombia,44.0,SDG 6.4.2. Water Stress,4550.0,2008.0,1.7619999999999998
+262,Comoros,45.0,SDG 6.4.2. Water Stress,4550.0,1999.0,0.8333
+265,Congo,46.0,SDG 6.4.2. Water Stress,4550.0,1987.0,0.0239
+266,Congo,46.0,SDG 6.4.2. Water Stress,4550.0,2002.0,0.0274
+269,Costa Rica,48.0,SDG 6.4.2. Water Stress,4550.0,2012.0,3.991
+270,Costa Rica,48.0,SDG 6.4.2. Water Stress,4550.0,2015.0,5.445
+277,Côte d'Ivoire,107.0,SDG 6.4.2. Water Stress,4550.0,1987.0,3.1039999999999996
+278,Côte d'Ivoire,107.0,SDG 6.4.2. Water Stress,4550.0,1990.0,4.816
+279,Côte d'Ivoire,107.0,SDG 6.4.2. Water Stress,4550.0,1994.0,5.394
+280,Côte d'Ivoire,107.0,SDG 6.4.2. Water Stress,4550.0,2000.0,6.169
+281,Côte d'Ivoire,107.0,SDG 6.4.2. Water Stress,4550.0,2005.0,6.782
+282,Côte d'Ivoire,107.0,SDG 6.4.2. Water Stress,4550.0,2014.0,5.088
+286,Croatia,98.0,SDG 6.4.2. Water Stress,4550.0,2002.0,1.275
+287,Croatia,98.0,SDG 6.4.2. Water Stress,4550.0,2012.0,1.47
+288,Croatia,98.0,SDG 6.4.2. Water Stress,4550.0,2017.0,1.496
+292,Cuba,49.0,SDG 6.4.2. Water Stress,4550.0,1995.0,17.93
+293,Cuba,49.0,SDG 6.4.2. Water Stress,4550.0,2007.0,16.99
+294,Cuba,49.0,SDG 6.4.2. Water Stress,4550.0,2013.0,23.94
+304,Cyprus,50.0,SDG 6.4.2. Water Stress,4550.0,1975.0,21.19
+305,Cyprus,50.0,SDG 6.4.2. Water Stress,4550.0,1980.0,24.19
+306,Cyprus,50.0,SDG 6.4.2. Water Stress,4550.0,1985.0,27.34
+307,Cyprus,50.0,SDG 6.4.2. Water Stress,4550.0,1990.0,30.48
+308,Cyprus,50.0,SDG 6.4.2. Water Stress,4550.0,1993.0,28.43
+309,Cyprus,50.0,SDG 6.4.2. Water Stress,4550.0,2002.0,23.33
+310,Cyprus,50.0,SDG 6.4.2. Water Stress,4550.0,2007.0,22.43
+311,Cyprus,50.0,SDG 6.4.2. Water Stress,4550.0,2012.0,34.9
+312,Cyprus,50.0,SDG 6.4.2. Water Stress,4550.0,2017.0,29.52
+318,Czechia,167.0,SDG 6.4.2. Water Stress,4550.0,1997.0,37.91
+319,Czechia,167.0,SDG 6.4.2. Water Stress,4550.0,2002.0,29.01
+320,Czechia,167.0,SDG 6.4.2. Water Stress,4550.0,2007.0,29.94
+321,Czechia,167.0,SDG 6.4.2. Water Stress,4550.0,2012.0,28.0
+322,Czechia,167.0,SDG 6.4.2. Water Stress,4550.0,2017.0,24.79
+324,Democratic People's Republic of Korea,116.0,SDG 6.4.2. Water Stress,4550.0,2005.0,27.74
+327,Democratic Republic of the Congo,250.0,SDG 6.4.2. Water Stress,4550.0,2000.0,0.1939
+328,Democratic Republic of the Congo,250.0,SDG 6.4.2. Water Stress,4550.0,2005.0,0.2269
+339,Denmark,54.0,SDG 6.4.2. Water Stress,4550.0,1970.0,19.47
+340,Denmark,54.0,SDG 6.4.2. Water Stress,4550.0,1975.0,32.59
+341,Denmark,54.0,SDG 6.4.2. Water Stress,4550.0,1980.0,32.59
+342,Denmark,54.0,SDG 6.4.2. Water Stress,4550.0,1985.0,46.11
+343,Denmark,54.0,SDG 6.4.2. Water Stress,4550.0,1990.0,33.69
+344,Denmark,54.0,SDG 6.4.2. Water Stress,4550.0,1997.0,24.81
+345,Denmark,54.0,SDG 6.4.2. Water Stress,4550.0,2002.0,17.66
+346,Denmark,54.0,SDG 6.4.2. Water Stress,4550.0,2007.0,15.03
+347,Denmark,54.0,SDG 6.4.2. Water Stress,4550.0,2012.0,19.7
+348,Denmark,54.0,SDG 6.4.2. Water Stress,4550.0,2016.0,20.04
+351,Djibouti,72.0,SDG 6.4.2. Water Stress,4550.0,1985.0,2.667
+352,Djibouti,72.0,SDG 6.4.2. Water Stress,4550.0,2000.0,6.267
+357,Dominica,55.0,SDG 6.4.2. Water Stress,4550.0,1996.0,8.3
+358,Dominica,55.0,SDG 6.4.2. Water Stress,4550.0,2000.0,8.3
+359,Dominica,55.0,SDG 6.4.2. Water Stress,4550.0,2004.0,8.3
+360,Dominica,55.0,SDG 6.4.2. Water Stress,4550.0,2010.0,10.0
+364,Dominican Republic,56.0,SDG 6.4.2. Water Stress,4550.0,2000.0,26.96
+365,Dominican Republic,56.0,SDG 6.4.2. Water Stress,4550.0,2005.0,30.21
+366,Dominican Republic,56.0,SDG 6.4.2. Water Stress,4550.0,2010.0,39.55
+369,Ecuador,58.0,SDG 6.4.2. Water Stress,4550.0,2000.0,6.407
+370,Ecuador,58.0,SDG 6.4.2. Water Stress,4550.0,2005.0,6.782
+376,Egypt,59.0,SDG 6.4.2. Water Stress,4550.0,1975.0,87.8
+377,Egypt,59.0,SDG 6.4.2. Water Stress,4550.0,1995.0,106.8
+378,Egypt,59.0,SDG 6.4.2. Water Stress,4550.0,2000.0,103.9
+379,Egypt,59.0,SDG 6.4.2. Water Stress,4550.0,2012.0,124.0
+380,Egypt,59.0,SDG 6.4.2. Water Stress,4550.0,2017.0,117.3
+384,El Salvador,60.0,SDG 6.4.2. Water Stress,4550.0,1992.0,4.547
+385,El Salvador,60.0,SDG 6.4.2. Water Stress,4550.0,2000.0,8.584
+386,El Salvador,60.0,SDG 6.4.2. Water Stress,4550.0,2005.0,13.21
+389,Equatorial Guinea,61.0,SDG 6.4.2. Water Stress,4550.0,1987.0,0.0927
+390,Equatorial Guinea,61.0,SDG 6.4.2. Water Stress,4550.0,2000.0,0.1613
+393,Eritrea,178.0,SDG 6.4.2. Water Stress,4550.0,2000.0,7.938
+394,Eritrea,178.0,SDG 6.4.2. Water Stress,4550.0,2004.0,11.18
+401,Estonia,63.0,SDG 6.4.2. Water Stress,4550.0,1992.0,28.45
+402,Estonia,63.0,SDG 6.4.2. Water Stress,4550.0,1995.0,14.69
+403,Estonia,63.0,SDG 6.4.2. Water Stress,4550.0,2002.0,15.29
+404,Estonia,63.0,SDG 6.4.2. Water Stress,4550.0,2007.0,19.84
+405,Estonia,63.0,SDG 6.4.2. Water Stress,4550.0,2012.0,17.64
+406,Estonia,63.0,SDG 6.4.2. Water Stress,4550.0,2017.0,19.3
+409,Eswatini,209.0,SDG 6.4.2. Water Stress,4550.0,1980.0,47.71
+410,Eswatini,209.0,SDG 6.4.2. Water Stress,4550.0,2000.0,75.67
+414,Ethiopia,238.0,SDG 6.4.2. Water Stress,4550.0,2002.0,17.0
+415,Ethiopia,238.0,SDG 6.4.2. Water Stress,4550.0,2005.0,24.04
+416,Ethiopia,238.0,SDG 6.4.2. Water Stress,4550.0,2016.0,32.26
+420,Fiji,66.0,SDG 6.4.2. Water Stress,4550.0,1987.0,0.1051
+421,Fiji,66.0,SDG 6.4.2. Water Stress,4550.0,2000.0,0.2862
+422,Fiji,66.0,SDG 6.4.2. Water Stress,4550.0,2005.0,0.2974
+431,Finland,67.0,SDG 6.4.2. Water Stress,4550.0,1970.0,7.825
+432,Finland,67.0,SDG 6.4.2. Water Stress,4550.0,1975.0,8.418
+433,Finland,67.0,SDG 6.4.2. Water Stress,4550.0,1980.0,8.774
+434,Finland,67.0,SDG 6.4.2. Water Stress,4550.0,1985.0,9.485
+435,Finland,67.0,SDG 6.4.2. Water Stress,4550.0,1990.0,5.566
+436,Finland,67.0,SDG 6.4.2. Water Stress,4550.0,1995.0,6.132000000000001
+437,Finland,67.0,SDG 6.4.2. Water Stress,4550.0,1999.0,5.521
+438,Finland,67.0,SDG 6.4.2. Water Stress,4550.0,2006.0,15.56
+447,France,68.0,SDG 6.4.2. Water Stress,4550.0,1980.0,27.1
+448,France,68.0,SDG 6.4.2. Water Stress,4550.0,1985.0,30.53
+449,France,68.0,SDG 6.4.2. Water Stress,4550.0,1992.0,34.33
+450,France,68.0,SDG 6.4.2. Water Stress,4550.0,1997.0,26.55
+451,France,68.0,SDG 6.4.2. Water Stress,4550.0,2002.0,28.33
+452,France,68.0,SDG 6.4.2. Water Stress,4550.0,2007.0,27.13
+453,France,68.0,SDG 6.4.2. Water Stress,4550.0,2012.0,24.2
+454,France,68.0,SDG 6.4.2. Water Stress,4550.0,2016.0,23.15
+458,Gabon,74.0,SDG 6.4.2. Water Stress,4550.0,1987.0,0.2166
+459,Gabon,74.0,SDG 6.4.2. Water Stress,4550.0,2000.0,0.4343
+460,Gabon,74.0,SDG 6.4.2. Water Stress,4550.0,2005.0,0.5022
+463,Gambia,75.0,SDG 6.4.2. Water Stress,4550.0,1982.0,0.435
+464,Gambia,75.0,SDG 6.4.2. Water Stress,4550.0,2000.0,1.9680000000000002
+467,Georgia,73.0,SDG 6.4.2. Water Stress,4550.0,2005.0,5.906000000000001
+468,Georgia,73.0,SDG 6.4.2. Water Stress,4550.0,2008.0,5.938
+475,Germany,79.0,SDG 6.4.2. Water Stress,4550.0,1991.0,63.42
+476,Germany,79.0,SDG 6.4.2. Water Stress,4550.0,1995.0,61.95
+477,Germany,79.0,SDG 6.4.2. Water Stress,4550.0,2001.0,53.6
+478,Germany,79.0,SDG 6.4.2. Water Stress,4550.0,2007.0,44.22
+479,Germany,79.0,SDG 6.4.2. Water Stress,4550.0,2010.0,45.22
+480,Germany,79.0,SDG 6.4.2. Water Stress,4550.0,2016.0,33.5
+483,Ghana,81.0,SDG 6.4.2. Water Stress,4550.0,1970.0,1.308
+484,Ghana,81.0,SDG 6.4.2. Water Stress,4550.0,2000.0,4.281000000000001
+495,Greece,84.0,SDG 6.4.2. Water Stress,4550.0,1970.0,8.606
+496,Greece,84.0,SDG 6.4.2. Water Stress,4550.0,1975.0,8.651
+497,Greece,84.0,SDG 6.4.2. Water Stress,4550.0,1980.0,10.18
+498,Greece,84.0,SDG 6.4.2. Water Stress,4550.0,1985.0,11.1
+499,Greece,84.0,SDG 6.4.2. Water Stress,4550.0,1992.0,16.24
+500,Greece,84.0,SDG 6.4.2. Water Stress,4550.0,1997.0,17.57
+501,Greece,84.0,SDG 6.4.2. Water Stress,4550.0,2002.0,18.66
+502,Greece,84.0,SDG 6.4.2. Water Stress,4550.0,2007.0,19.41
+503,Greece,84.0,SDG 6.4.2. Water Stress,4550.0,2012.0,20.1
+504,Greece,84.0,SDG 6.4.2. Water Stress,4550.0,2016.0,22.74
+507,Grenada,86.0,SDG 6.4.2. Water Stress,4550.0,2005.0,5.0
+508,Grenada,86.0,SDG 6.4.2. Water Stress,4550.0,2014.0,7.05
+510,Guatemala,89.0,SDG 6.4.2. Water Stress,4550.0,2006.0,5.742999999999999
+513,Guinea,90.0,SDG 6.4.2. Water Stress,4550.0,1987.0,1.138
+514,Guinea,90.0,SDG 6.4.2. Water Stress,4550.0,2001.0,0.8512
+518,Guinea-Bissau,175.0,SDG 6.4.2. Water Stress,4550.0,1991.0,0.1419
+519,Guinea-Bissau,175.0,SDG 6.4.2. Water Stress,4550.0,1996.0,1.496
+520,Guinea-Bissau,175.0,SDG 6.4.2. Water Stress,4550.0,2000.0,1.496
+524,Guyana,91.0,SDG 6.4.2. Water Stress,4550.0,1992.0,3.333
+525,Guyana,91.0,SDG 6.4.2. Water Stress,4550.0,2000.0,3.7439999999999998
+526,Guyana,91.0,SDG 6.4.2. Water Stress,4550.0,2010.0,3.299
+530,Haiti,93.0,SDG 6.4.2. Water Stress,4550.0,1991.0,9.038
+531,Haiti,93.0,SDG 6.4.2. Water Stress,4550.0,1995.0,11.85
+532,Haiti,93.0,SDG 6.4.2. Water Stress,4550.0,2009.0,13.37
+534,Honduras,95.0,SDG 6.4.2. Water Stress,4550.0,2003.0,4.622
+545,Hungary,97.0,SDG 6.4.2. Water Stress,4550.0,1970.0,5.147
+546,Hungary,97.0,SDG 6.4.2. Water Stress,4550.0,1975.0,6.848
+547,Hungary,97.0,SDG 6.4.2. Water Stress,4550.0,1980.0,8.299
+548,Hungary,97.0,SDG 6.4.2. Water Stress,4550.0,1985.0,10.97
+549,Hungary,97.0,SDG 6.4.2. Water Stress,4550.0,1992.0,12.33
+550,Hungary,97.0,SDG 6.4.2. Water Stress,4550.0,1996.0,10.38
+551,Hungary,97.0,SDG 6.4.2. Water Stress,4550.0,2002.0,9.879
+552,Hungary,97.0,SDG 6.4.2. Water Stress,4550.0,2007.0,9.644
+553,Hungary,97.0,SDG 6.4.2. Water Stress,4550.0,2012.0,8.724
+554,Hungary,97.0,SDG 6.4.2. Water Stress,4550.0,2017.0,7.77
+562,Iceland,99.0,SDG 6.4.2. Water Stress,4550.0,1980.0,0.1468
+563,Iceland,99.0,SDG 6.4.2. Water Stress,4550.0,1985.0,0.1522
+564,Iceland,99.0,SDG 6.4.2. Water Stress,4550.0,1992.0,0.2269
+565,Iceland,99.0,SDG 6.4.2. Water Stress,4550.0,2002.0,0.2242
+566,Iceland,99.0,SDG 6.4.2. Water Stress,4550.0,2004.0,0.2242
+567,Iceland,99.0,SDG 6.4.2. Water Stress,4550.0,2012.0,0.3995
+568,Iceland,99.0,SDG 6.4.2. Water Stress,4550.0,2016.0,0.3533
+575,India,100.0,SDG 6.4.2. Water Stress,4550.0,1975.0,39.02
+576,India,100.0,SDG 6.4.2. Water Stress,4550.0,1980.0,45.0
+577,India,100.0,SDG 6.4.2. Water Stress,4550.0,1986.0,51.07
+578,India,100.0,SDG 6.4.2. Water Stress,4550.0,1990.0,51.34
+579,India,100.0,SDG 6.4.2. Water Stress,4550.0,2000.0,62.68
+580,India,100.0,SDG 6.4.2. Water Stress,4550.0,2010.0,66.49
+584,Indonesia,101.0,SDG 6.4.2. Water Stress,4550.0,1990.0,9.908999999999999
+585,Indonesia,101.0,SDG 6.4.2. Water Stress,4550.0,2000.0,15.11
+586,Indonesia,101.0,SDG 6.4.2. Water Stress,4550.0,2016.0,29.68
+591,Iran (Islamic Republic of),102.0,SDG 6.4.2. Water Stress,4550.0,1975.0,39.37
+592,Iran (Islamic Republic of),102.0,SDG 6.4.2. Water Stress,4550.0,1995.0,72.62
+593,Iran (Islamic Republic of),102.0,SDG 6.4.2. Water Stress,4550.0,2001.0,78.48
+594,Iran (Islamic Republic of),102.0,SDG 6.4.2. Water Stress,4550.0,2004.0,81.45
+602,Iraq,103.0,SDG 6.4.2. Water Stress,4550.0,1975.0,56.97
+603,Iraq,103.0,SDG 6.4.2. Water Stress,4550.0,1980.0,57.3
+604,Iraq,103.0,SDG 6.4.2. Water Stress,4550.0,1985.0,57.61
+605,Iraq,103.0,SDG 6.4.2. Water Stress,4550.0,1990.0,60.11
+606,Iraq,103.0,SDG 6.4.2. Water Stress,4550.0,1995.0,76.39
+607,Iraq,103.0,SDG 6.4.2. Water Stress,4550.0,2000.0,92.68
+608,Iraq,103.0,SDG 6.4.2. Water Stress,4550.0,2016.0,54.13
+613,Ireland,104.0,SDG 6.4.2. Water Stress,4550.0,1980.0,5.149
+614,Ireland,104.0,SDG 6.4.2. Water Stress,4550.0,1994.0,5.659
+615,Ireland,104.0,SDG 6.4.2. Water Stress,4550.0,2007.0,3.512
+616,Ireland,104.0,SDG 6.4.2. Water Stress,4550.0,2009.0,3.6430000000000002
+627,Israel,105.0,SDG 6.4.2. Water Stress,4550.0,1970.0,133.0
+628,Israel,105.0,SDG 6.4.2. Water Stress,4550.0,1975.0,137.9
+629,Israel,105.0,SDG 6.4.2. Water Stress,4550.0,1980.0,141.7
+630,Israel,105.0,SDG 6.4.2. Water Stress,4550.0,1986.0,148.4
+631,Israel,105.0,SDG 6.4.2. Water Stress,4550.0,1990.0,136.7
+632,Israel,105.0,SDG 6.4.2. Water Stress,4550.0,1995.0,132.2
+633,Israel,105.0,SDG 6.4.2. Water Stress,4550.0,2002.0,133.1
+634,Israel,105.0,SDG 6.4.2. Water Stress,4550.0,2004.0,122.4
+635,Israel,105.0,SDG 6.4.2. Water Stress,4550.0,2010.0,115.6
+636,Israel,105.0,SDG 6.4.2. Water Stress,4550.0,2017.0,103.4
+641,Italy,106.0,SDG 6.4.2. Water Stress,4550.0,1970.0,36.66
+642,Italy,106.0,SDG 6.4.2. Water Stress,4550.0,2000.0,39.72
+643,Italy,106.0,SDG 6.4.2. Water Stress,4550.0,2008.0,47.36
+644,Italy,106.0,SDG 6.4.2. Water Stress,4550.0,2015.0,30.13
+648,Jamaica,109.0,SDG 6.4.2. Water Stress,4550.0,1993.0,8.572000000000001
+649,Jamaica,109.0,SDG 6.4.2. Water Stress,4550.0,2007.0,7.5
+650,Jamaica,109.0,SDG 6.4.2. Water Stress,4550.0,2016.0,12.51
+657,Japan,110.0,SDG 6.4.2. Water Stress,4550.0,1980.0,40.55
+658,Japan,110.0,SDG 6.4.2. Water Stress,4550.0,1992.0,42.02
+659,Japan,110.0,SDG 6.4.2. Water Stress,4550.0,1997.0,41.01
+660,Japan,110.0,SDG 6.4.2. Water Stress,4550.0,2002.0,38.83
+661,Japan,110.0,SDG 6.4.2. Water Stress,4550.0,2007.0,38.05
+662,Japan,110.0,SDG 6.4.2. Water Stress,4550.0,2009.0,37.34
+671,Jordan,112.0,SDG 6.4.2. Water Stress,4550.0,1975.0,49.95
+672,Jordan,112.0,SDG 6.4.2. Water Stress,4550.0,1980.0,59.25
+673,Jordan,112.0,SDG 6.4.2. Water Stress,4550.0,1985.0,68.56
+674,Jordan,112.0,SDG 6.4.2. Water Stress,4550.0,1992.0,103.8
+675,Jordan,112.0,SDG 6.4.2. Water Stress,4550.0,2002.0,81.75
+676,Jordan,112.0,SDG 6.4.2. Water Stress,4550.0,2007.0,102.1
+677,Jordan,112.0,SDG 6.4.2. Water Stress,4550.0,2012.0,94.03
+678,Jordan,112.0,SDG 6.4.2. Water Stress,4550.0,2016.0,100.1
+684,Kazakhstan,108.0,SDG 6.4.2. Water Stress,4550.0,1995.0,44.49
+685,Kazakhstan,108.0,SDG 6.4.2. Water Stress,4550.0,2002.0,30.88
+686,Kazakhstan,108.0,SDG 6.4.2. Water Stress,4550.0,2007.0,31.64
+687,Kazakhstan,108.0,SDG 6.4.2. Water Stress,4550.0,2012.0,29.67
+688,Kazakhstan,108.0,SDG 6.4.2. Water Stress,4550.0,2017.0,31.14
+693,Kenya,114.0,SDG 6.4.2. Water Stress,4550.0,1990.0,16.89
+694,Kenya,114.0,SDG 6.4.2. Water Stress,4550.0,2003.0,19.13
+695,Kenya,114.0,SDG 6.4.2. Water Stress,4550.0,2010.0,26.53
+696,Kenya,114.0,SDG 6.4.2. Water Stress,4550.0,2016.0,33.24
+699,Kuwait,118.0,SDG 6.4.2. Water Stress,4550.0,1994.0,1275.0
+700,Kuwait,118.0,SDG 6.4.2. Water Stress,4550.0,2002.0,2075.0
+704,Kyrgyzstan,113.0,SDG 6.4.2. Water Stress,4550.0,1994.0,63.55
+705,Kyrgyzstan,113.0,SDG 6.4.2. Water Stress,4550.0,2000.0,65.44
+706,Kyrgyzstan,113.0,SDG 6.4.2. Water Stress,4550.0,2006.0,50.03
+708,Lao People's Democratic Republic,120.0,SDG 6.4.2. Water Stress,4550.0,2005.0,2.2769999999999997
+714,Latvia,119.0,SDG 6.4.2. Water Stress,4550.0,1995.0,2.394
+715,Latvia,119.0,SDG 6.4.2. Water Stress,4550.0,2002.0,1.4409999999999998
+716,Latvia,119.0,SDG 6.4.2. Water Stress,4550.0,2007.0,1.217
+717,Latvia,119.0,SDG 6.4.2. Water Stress,4550.0,2012.0,1.463
+718,Latvia,119.0,SDG 6.4.2. Water Stress,4550.0,2017.0,1.067
+724,Lebanon,121.0,SDG 6.4.2. Water Stress,4550.0,1975.0,24.37
+725,Lebanon,121.0,SDG 6.4.2. Water Stress,4550.0,1994.0,41.89
+726,Lebanon,121.0,SDG 6.4.2. Water Stress,4550.0,2000.0,41.08
+727,Lebanon,121.0,SDG 6.4.2. Water Stress,4550.0,2005.0,35.56
+728,Lebanon,121.0,SDG 6.4.2. Water Stress,4550.0,2015.0,58.79
+731,Lesotho,122.0,SDG 6.4.2. Water Stress,4550.0,1987.0,2.929
+732,Lesotho,122.0,SDG 6.4.2. Water Stress,4550.0,2000.0,2.5660000000000003
+735,Liberia,123.0,SDG 6.4.2. Water Stress,4550.0,1987.0,0.2355
+736,Liberia,123.0,SDG 6.4.2. Water Stress,4550.0,2000.0,0.237
+745,Libya,124.0,SDG 6.4.2. Water Stress,4550.0,1975.0,171.4
+746,Libya,124.0,SDG 6.4.2. Water Stress,4550.0,1980.0,210.0
+747,Libya,124.0,SDG 6.4.2. Water Stress,4550.0,1985.0,445.0
+748,Libya,124.0,SDG 6.4.2. Water Stress,4550.0,1990.0,680.0
+749,Libya,124.0,SDG 6.4.2. Water Stress,4550.0,1994.0,657.1
+750,Libya,124.0,SDG 6.4.2. Water Stress,4550.0,2000.0,615.4
+751,Libya,124.0,SDG 6.4.2. Water Stress,4550.0,2005.0,688.9
+752,Libya,124.0,SDG 6.4.2. Water Stress,4550.0,2012.0,822.9
+757,Lithuania,126.0,SDG 6.4.2. Water Stress,4550.0,1995.0,31.34
+758,Lithuania,126.0,SDG 6.4.2. Water Stress,4550.0,2001.0,19.96
+759,Lithuania,126.0,SDG 6.4.2. Water Stress,4550.0,2007.0,16.32
+760,Lithuania,126.0,SDG 6.4.2. Water Stress,4550.0,2017.0,1.867
+769,Luxembourg,256.0,SDG 6.4.2. Water Stress,4550.0,1970.0,2.886
+770,Luxembourg,256.0,SDG 6.4.2. Water Stress,4550.0,1975.0,3.5239999999999996
+771,Luxembourg,256.0,SDG 6.4.2. Water Stress,4550.0,1980.0,3.292
+772,Luxembourg,256.0,SDG 6.4.2. Water Stress,4550.0,1985.0,5.556
+773,Luxembourg,256.0,SDG 6.4.2. Water Stress,4550.0,1995.0,4.685
+774,Luxembourg,256.0,SDG 6.4.2. Water Stress,4550.0,1999.0,5.0169999999999995
+775,Luxembourg,256.0,SDG 6.4.2. Water Stress,4550.0,2012.0,3.69
+776,Luxembourg,256.0,SDG 6.4.2. Water Stress,4550.0,2017.0,3.781
+780,Madagascar,129.0,SDG 6.4.2. Water Stress,4550.0,1984.0,13.64
+781,Madagascar,129.0,SDG 6.4.2. Water Stress,4550.0,2000.0,11.19
+782,Madagascar,129.0,SDG 6.4.2. Water Stress,4550.0,2006.0,11.35
+786,Malawi,130.0,SDG 6.4.2. Water Stress,4550.0,1994.0,12.08
+787,Malawi,130.0,SDG 6.4.2. Water Stress,4550.0,2002.0,17.09
+788,Malawi,130.0,SDG 6.4.2. Water Stress,4550.0,2005.0,17.51
+792,Malaysia,131.0,SDG 6.4.2. Water Stress,4550.0,1990.0,5.19
+793,Malaysia,131.0,SDG 6.4.2. Water Stress,4550.0,1996.0,2.812
+794,Malaysia,131.0,SDG 6.4.2. Water Stress,4550.0,2017.0,3.4389999999999996
+797,Maldives,132.0,SDG 6.4.2. Water Stress,4550.0,1987.0,11.33
+798,Maldives,132.0,SDG 6.4.2. Water Stress,4550.0,2008.0,15.67
+801,Mali,133.0,SDG 6.4.2. Water Stress,4550.0,1987.0,2.099
+802,Mali,133.0,SDG 6.4.2. Water Stress,4550.0,2006.0,8.003
+809,Malta,134.0,SDG 6.4.2. Water Stress,4550.0,1980.0,39.6
+810,Malta,134.0,SDG 6.4.2. Water Stress,4550.0,1995.0,58.42
+811,Malta,134.0,SDG 6.4.2. Water Stress,4550.0,2002.0,67.33
+812,Malta,134.0,SDG 6.4.2. Water Stress,4550.0,2007.0,64.95
+813,Malta,134.0,SDG 6.4.2. Water Stress,4550.0,2012.0,79.41
+814,Malta,134.0,SDG 6.4.2. Water Stress,4550.0,2017.0,85.15
+818,Mauritania,136.0,SDG 6.4.2. Water Stress,4550.0,1980.0,7.172000000000001
+819,Mauritania,136.0,SDG 6.4.2. Water Stress,4550.0,2000.0,15.71
+820,Mauritania,136.0,SDG 6.4.2. Water Stress,4550.0,2005.0,13.24
+828,Mauritius,137.0,SDG 6.4.2. Water Stress,4550.0,1975.0,13.09
+829,Mauritius,137.0,SDG 6.4.2. Water Stress,4550.0,1990.0,20.57
+830,Mauritius,137.0,SDG 6.4.2. Water Stress,4550.0,1995.0,22.36
+831,Mauritius,137.0,SDG 6.4.2. Water Stress,4550.0,2000.0,22.17
+832,Mauritius,137.0,SDG 6.4.2. Water Stress,4550.0,2007.0,22.9
+833,Mauritius,137.0,SDG 6.4.2. Water Stress,4550.0,2012.0,21.16
+834,Mauritius,137.0,SDG 6.4.2. Water Stress,4550.0,2017.0,22.17
+840,Mexico,138.0,SDG 6.4.2. Water Stress,4550.0,1980.0,20.99
+841,Mexico,138.0,SDG 6.4.2. Water Stress,4550.0,2002.0,27.12
+842,Mexico,138.0,SDG 6.4.2. Water Stress,4550.0,2007.0,29.5
+843,Mexico,138.0,SDG 6.4.2. Water Stress,4550.0,2012.0,30.72
+844,Mexico,138.0,SDG 6.4.2. Water Stress,4550.0,2017.0,32.95
+849,Mongolia,141.0,SDG 6.4.2. Water Stress,4550.0,1993.0,3.142
+850,Mongolia,141.0,SDG 6.4.2. Water Stress,4550.0,2006.0,3.965
+851,Mongolia,141.0,SDG 6.4.2. Water Stress,4550.0,2009.0,4.046
+852,Mongolia,141.0,SDG 6.4.2. Water Stress,4550.0,2016.0,3.395
+860,Morocco,143.0,SDG 6.4.2. Water Stress,4550.0,1975.0,43.2
+861,Morocco,143.0,SDG 6.4.2. Water Stress,4550.0,1980.0,48.24
+862,Morocco,143.0,SDG 6.4.2. Water Stress,4550.0,1985.0,52.8
+863,Morocco,143.0,SDG 6.4.2. Water Stress,4550.0,1992.0,52.99
+864,Morocco,143.0,SDG 6.4.2. Water Stress,4550.0,1995.0,54.05
+865,Morocco,143.0,SDG 6.4.2. Water Stress,4550.0,2002.0,71.14
+866,Morocco,143.0,SDG 6.4.2. Water Stress,4550.0,2010.0,49.68
+870,Mozambique,144.0,SDG 6.4.2. Water Stress,4550.0,1990.0,0.7194
+871,Mozambique,144.0,SDG 6.4.2. Water Stress,4550.0,2001.0,1.051
+872,Mozambique,144.0,SDG 6.4.2. Water Stress,4550.0,2015.0,1.751
+875,Myanmar,28.0,SDG 6.4.2. Water Stress,4550.0,1987.0,4.9319999999999995
+876,Myanmar,28.0,SDG 6.4.2. Water Stress,4550.0,2000.0,5.7989999999999995
+881,Namibia,147.0,SDG 6.4.2. Water Stress,4550.0,1985.0,0.4279
+882,Namibia,147.0,SDG 6.4.2. Water Stress,4550.0,1991.0,0.7601
+883,Namibia,147.0,SDG 6.4.2. Water Stress,4550.0,1995.0,0.8157
+884,Namibia,147.0,SDG 6.4.2. Water Stress,4550.0,2002.0,0.8616
+887,Nepal,149.0,SDG 6.4.2. Water Stress,4550.0,2000.0,8.369
+888,Nepal,149.0,SDG 6.4.2. Water Stress,4550.0,2006.0,8.312000000000001
+897,Netherlands,150.0,SDG 6.4.2. Water Stress,4550.0,1980.0,17.46
+898,Netherlands,150.0,SDG 6.4.2. Water Stress,4550.0,1985.0,17.75
+899,Netherlands,150.0,SDG 6.4.2. Water Stress,4550.0,1991.0,15.16
+900,Netherlands,150.0,SDG 6.4.2. Water Stress,4550.0,1996.0,12.35
+901,Netherlands,150.0,SDG 6.4.2. Water Stress,4550.0,2002.0,16.91
+902,Netherlands,150.0,SDG 6.4.2. Water Stress,4550.0,2007.0,20.77
+903,Netherlands,150.0,SDG 6.4.2. Water Stress,4550.0,2012.0,20.35
+904,Netherlands,150.0,SDG 6.4.2. Water Stress,4550.0,2016.0,15.17
+911,New Zealand,156.0,SDG 6.4.2. Water Stress,4550.0,1980.0,0.978
+912,New Zealand,156.0,SDG 6.4.2. Water Stress,4550.0,1985.0,1.548
+913,New Zealand,156.0,SDG 6.4.2. Water Stress,4550.0,1999.0,2.559
+914,New Zealand,156.0,SDG 6.4.2. Water Stress,4550.0,2006.0,4.0
+915,New Zealand,156.0,SDG 6.4.2. Water Stress,4550.0,2010.0,4.239
+916,New Zealand,156.0,SDG 6.4.2. Water Stress,4550.0,2014.0,8.048
+919,Nicaragua,157.0,SDG 6.4.2. Water Stress,4550.0,2001.0,2.421
+920,Nicaragua,157.0,SDG 6.4.2. Water Stress,4550.0,2011.0,2.696
+924,Niger,158.0,SDG 6.4.2. Water Stress,4550.0,1988.0,2.133
+925,Niger,158.0,SDG 6.4.2. Water Stress,4550.0,2005.0,4.196000000000001
+926,Niger,158.0,SDG 6.4.2. Water Stress,4550.0,2017.0,7.47
+931,Nigeria,159.0,SDG 6.4.2. Water Stress,4550.0,1987.0,4.333
+932,Nigeria,159.0,SDG 6.4.2. Water Stress,4550.0,2000.0,7.992000000000001
+933,Nigeria,159.0,SDG 6.4.2. Water Stress,4550.0,2005.0,8.969
+934,Nigeria,159.0,SDG 6.4.2. Water Stress,4550.0,2010.0,9.667
+939,North Macedonia,154.0,SDG 6.4.2. Water Stress,4550.0,1996.0,37.63
+940,North Macedonia,154.0,SDG 6.4.2. Water Stress,4550.0,2002.0,15.32
+941,North Macedonia,154.0,SDG 6.4.2. Water Stress,4550.0,2007.0,13.34
+942,North Macedonia,154.0,SDG 6.4.2. Water Stress,4550.0,2017.0,12.67
+947,Norway,162.0,SDG 6.4.2. Water Stress,4550.0,1980.0,1.521
+948,Norway,162.0,SDG 6.4.2. Water Stress,4550.0,1996.0,1.84
+949,Norway,162.0,SDG 6.4.2. Water Stress,4550.0,2002.0,1.824
+950,Norway,162.0,SDG 6.4.2. Water Stress,4550.0,2007.0,2.301
+955,Oman,221.0,SDG 6.4.2. Water Stress,4550.0,1991.0,85.5
+956,Oman,221.0,SDG 6.4.2. Water Stress,4550.0,2000.0,92.86
+957,Oman,221.0,SDG 6.4.2. Water Stress,4550.0,2003.0,84.71
+958,Oman,221.0,SDG 6.4.2. Water Stress,4550.0,2013.0,116.7
+964,Pakistan,165.0,SDG 6.4.2. Water Stress,4550.0,1975.0,94.1
+965,Pakistan,165.0,SDG 6.4.2. Water Stress,4550.0,1991.0,95.45
+966,Pakistan,165.0,SDG 6.4.2. Water Stress,4550.0,2000.0,105.9
+967,Pakistan,165.0,SDG 6.4.2. Water Stress,4550.0,2008.0,112.6
+968,Pakistan,165.0,SDG 6.4.2. Water Stress,4550.0,2017.0,122.7
+972,Palestine,299.0,SDG 6.4.2. Water Stress,4550.0,2001.0,38.37
+973,Palestine,299.0,SDG 6.4.2. Water Stress,4550.0,2005.0,58.19
+974,Palestine,299.0,SDG 6.4.2. Water Stress,4550.0,2017.0,41.08
+977,Panama,166.0,SDG 6.4.2. Water Stress,4550.0,2010.0,0.7714
+978,Panama,166.0,SDG 6.4.2. Water Stress,4550.0,2016.0,0.9008
+981,Papua New Guinea,168.0,SDG 6.4.2. Water Stress,4550.0,2000.0,0.0915
+982,Papua New Guinea,168.0,SDG 6.4.2. Water Stress,4550.0,2005.0,0.1322
+986,Paraguay,169.0,SDG 6.4.2. Water Stress,4550.0,1987.0,0.327
+987,Paraguay,169.0,SDG 6.4.2. Water Stress,4550.0,2000.0,0.3726
+988,Paraguay,169.0,SDG 6.4.2. Water Stress,4550.0,2012.0,1.835
+992,Peru,170.0,SDG 6.4.2. Water Stress,4550.0,2008.0,2.525
+993,Peru,170.0,SDG 6.4.2. Water Stress,4550.0,2016.0,2.998
+997,Philippines,171.0,SDG 6.4.2. Water Stress,4550.0,2007.0,24.92
+998,Philippines,171.0,SDG 6.4.2. Water Stress,4550.0,2012.0,25.76
+999,Philippines,171.0,SDG 6.4.2. Water Stress,4550.0,2017.0,28.36
+1010,Poland,173.0,SDG 6.4.2. Water Stress,4550.0,1970.0,34.99
+1011,Poland,173.0,SDG 6.4.2. Water Stress,4550.0,1975.0,46.83
+1012,Poland,173.0,SDG 6.4.2. Water Stress,4550.0,1980.0,52.37
+1013,Poland,173.0,SDG 6.4.2. Water Stress,4550.0,1985.0,56.8
+1014,Poland,173.0,SDG 6.4.2. Water Stress,4550.0,1992.0,46.31
+1015,Poland,173.0,SDG 6.4.2. Water Stress,4550.0,1997.0,44.27
+1016,Poland,173.0,SDG 6.4.2. Water Stress,4550.0,2002.0,40.57
+1017,Poland,173.0,SDG 6.4.2. Water Stress,4550.0,2007.0,41.61
+1018,Poland,173.0,SDG 6.4.2. Water Stress,4550.0,2012.0,39.7
+1019,Poland,173.0,SDG 6.4.2. Water Stress,4550.0,2017.0,34.89
+1023,Portugal,174.0,SDG 6.4.2. Water Stress,4550.0,1991.0,17.28
+1024,Portugal,174.0,SDG 6.4.2. Water Stress,4550.0,1998.0,22.38
+1025,Portugal,174.0,SDG 6.4.2. Water Stress,4550.0,2007.0,18.38
+1031,Puerto Rico,177.0,SDG 6.4.2. Water Stress,4550.0,1990.0,17.81
+1032,Puerto Rico,177.0,SDG 6.4.2. Water Stress,4550.0,2000.0,19.12
+1033,Puerto Rico,177.0,SDG 6.4.2. Water Stress,4550.0,2005.0,22.29
+1034,Puerto Rico,177.0,SDG 6.4.2. Water Stress,4550.0,2010.0,22.71
+1035,Puerto Rico,177.0,SDG 6.4.2. Water Stress,4550.0,2015.0,19.54
+1041,Qatar,179.0,SDG 6.4.2. Water Stress,4550.0,1975.0,258.6
+1042,Qatar,179.0,SDG 6.4.2. Water Stress,4550.0,1994.0,277.1
+1043,Qatar,179.0,SDG 6.4.2. Water Stress,4550.0,2000.0,282.6
+1044,Qatar,179.0,SDG 6.4.2. Water Stress,4550.0,2007.0,360.3
+1045,Qatar,179.0,SDG 6.4.2. Water Stress,4550.0,2016.0,432.4
+1050,Republic of Korea,117.0,SDG 6.4.2. Water Stress,4550.0,1990.0,60.04
+1051,Republic of Korea,117.0,SDG 6.4.2. Water Stress,4550.0,1997.0,74.26
+1052,Republic of Korea,117.0,SDG 6.4.2. Water Stress,4550.0,2002.0,85.11
+1053,Republic of Korea,117.0,SDG 6.4.2. Water Stress,4550.0,2005.0,84.76
+1059,Republic of Moldova,146.0,SDG 6.4.2. Water Stress,4550.0,1992.0,29.15
+1060,Republic of Moldova,146.0,SDG 6.4.2. Water Stress,4550.0,2002.0,12.86
+1061,Republic of Moldova,146.0,SDG 6.4.2. Water Stress,4550.0,2007.0,12.68
+1062,Republic of Moldova,146.0,SDG 6.4.2. Water Stress,4550.0,2012.0,12.62
+1063,Republic of Moldova,146.0,SDG 6.4.2. Water Stress,4550.0,2017.0,12.47
+1074,Romania,183.0,SDG 6.4.2. Water Stress,4550.0,1970.0,8.979
+1075,Romania,183.0,SDG 6.4.2. Water Stress,4550.0,1975.0,13.48
+1076,Romania,183.0,SDG 6.4.2. Water Stress,4550.0,1980.0,17.6
+1077,Romania,183.0,SDG 6.4.2. Water Stress,4550.0,1985.0,19.19
+1078,Romania,183.0,SDG 6.4.2. Water Stress,4550.0,1990.0,19.11
+1079,Romania,183.0,SDG 6.4.2. Water Stress,4550.0,1997.0,11.67
+1080,Romania,183.0,SDG 6.4.2. Water Stress,4550.0,2002.0,8.635
+1081,Romania,183.0,SDG 6.4.2. Water Stress,4550.0,2007.0,6.446000000000001
+1082,Romania,183.0,SDG 6.4.2. Water Stress,4550.0,2012.0,6.069
+1083,Romania,183.0,SDG 6.4.2. Water Stress,4550.0,2017.0,6.3420000000000005
+1090,Russian Federation,185.0,SDG 6.4.2. Water Stress,4550.0,1992.0,6.336
+1091,Russian Federation,185.0,SDG 6.4.2. Water Stress,4550.0,1994.0,4.905
+1092,Russian Federation,185.0,SDG 6.4.2. Water Stress,4550.0,2001.0,4.211
+1093,Russian Federation,185.0,SDG 6.4.2. Water Stress,4550.0,2005.0,4.408
+1094,Russian Federation,185.0,SDG 6.4.2. Water Stress,4550.0,2012.0,4.071000000000001
+1095,Russian Federation,185.0,SDG 6.4.2. Water Stress,4550.0,2017.0,4.0969999999999995
+1097,Rwanda,184.0,SDG 6.4.2. Water Stress,4550.0,2000.0,4.967
+1099,Saint Kitts and Nevis,188.0,SDG 6.4.2. Water Stress,4550.0,2012.0,51.25
+1101,Saint Lucia,189.0,SDG 6.4.2. Water Stress,4550.0,2007.0,14.3
+1104,Saint Vincent and the Grenadines,191.0,SDG 6.4.2. Water Stress,4550.0,1995.0,10.0
+1105,Saint Vincent and the Grenadines,191.0,SDG 6.4.2. Water Stress,4550.0,2013.0,7.9
+1108,Sao Tome and Principe,193.0,SDG 6.4.2. Water Stress,4550.0,1993.0,0.3211
+1109,Sao Tome and Principe,193.0,SDG 6.4.2. Water Stress,4550.0,2016.0,1.876
+1114,Saudi Arabia,194.0,SDG 6.4.2. Water Stress,4550.0,1992.0,671.7
+1115,Saudi Arabia,194.0,SDG 6.4.2. Water Stress,4550.0,2006.0,943.3
+1116,Saudi Arabia,194.0,SDG 6.4.2. Water Stress,4550.0,2012.0,797.5
+1117,Saudi Arabia,194.0,SDG 6.4.2. Water Stress,4550.0,2017.0,883.3
+1120,Senegal,195.0,SDG 6.4.2. Water Stress,4550.0,1987.0,7.23
+1121,Senegal,195.0,SDG 6.4.2. Water Stress,4550.0,2002.0,11.81
+1125,Serbia,272.0,SDG 6.4.2. Water Stress,4550.0,2007.0,4.461
+1126,Serbia,272.0,SDG 6.4.2. Water Stress,4550.0,2012.0,4.962
+1127,Serbia,272.0,SDG 6.4.2. Water Stress,4550.0,2017.0,6.06
+1131,Sierra Leone,197.0,SDG 6.4.2. Water Stress,4550.0,1987.0,0.8645
+1132,Sierra Leone,197.0,SDG 6.4.2. Water Stress,4550.0,2000.0,0.4414
+1133,Sierra Leone,197.0,SDG 6.4.2. Water Stress,4550.0,2005.0,0.4958
+1136,Singapore,200.0,SDG 6.4.2. Water Stress,4550.0,1975.0,31.67
+1137,Singapore,200.0,SDG 6.4.2. Water Stress,4550.0,2017.0,83.22
+1143,Slovakia,199.0,SDG 6.4.2. Water Stress,4550.0,1997.0,5.6370000000000005
+1144,Slovakia,199.0,SDG 6.4.2. Water Stress,4550.0,2002.0,4.707
+1145,Slovakia,199.0,SDG 6.4.2. Water Stress,4550.0,2007.0,2.96
+1146,Slovakia,199.0,SDG 6.4.2. Water Stress,4550.0,2012.0,2.863
+1147,Slovakia,199.0,SDG 6.4.2. Water Stress,4550.0,2017.0,2.394
+1152,Slovenia,198.0,SDG 6.4.2. Water Stress,4550.0,2002.0,6.08
+1153,Slovenia,198.0,SDG 6.4.2. Water Stress,4550.0,2007.0,6.321000000000001
+1154,Slovenia,198.0,SDG 6.4.2. Water Stress,4550.0,2012.0,6.275
+1155,Slovenia,198.0,SDG 6.4.2. Water Stress,4550.0,2017.0,6.297000000000001
+1159,Somalia,201.0,SDG 6.4.2. Water Stress,4550.0,1987.0,6.024
+1160,Somalia,201.0,SDG 6.4.2. Water Stress,4550.0,2000.0,24.47
+1161,Somalia,201.0,SDG 6.4.2. Water Stress,4550.0,2003.0,24.53
+1166,South Africa,202.0,SDG 6.4.2. Water Stress,4550.0,1990.0,42.56
+1167,South Africa,202.0,SDG 6.4.2. Water Stress,4550.0,1995.0,41.24
+1168,South Africa,202.0,SDG 6.4.2. Water Stress,4550.0,2000.0,40.76
+1169,South Africa,202.0,SDG 6.4.2. Water Stress,4550.0,2017.0,62.06
+1171,South Sudan,277.0,SDG 6.4.2. Water Stress,4550.0,2011.0,4.226
+1181,Spain,203.0,SDG 6.4.2. Water Stress,4550.0,1975.0,49.19
+1182,Spain,203.0,SDG 6.4.2. Water Stress,4550.0,1980.0,54.42
+1183,Spain,203.0,SDG 6.4.2. Water Stress,4550.0,1986.0,62.51
+1184,Spain,203.0,SDG 6.4.2. Water Stress,4550.0,1991.0,50.17
+1185,Spain,203.0,SDG 6.4.2. Water Stress,4550.0,1997.0,47.03
+1186,Spain,203.0,SDG 6.4.2. Water Stress,4550.0,2002.0,48.41
+1187,Spain,203.0,SDG 6.4.2. Water Stress,4550.0,2007.0,47.68
+1188,Spain,203.0,SDG 6.4.2. Water Stress,4550.0,2012.0,46.78
+1189,Spain,203.0,SDG 6.4.2. Water Stress,4550.0,2016.0,42.56
+1193,Sri Lanka,38.0,SDG 6.4.2. Water Stress,4550.0,1990.0,68.51
+1194,Sri Lanka,38.0,SDG 6.4.2. Water Stress,4550.0,2000.0,91.23
+1195,Sri Lanka,38.0,SDG 6.4.2. Water Stress,4550.0,2005.0,90.81
+1197,Sudan,276.0,SDG 6.4.2. Water Stress,4550.0,2011.0,118.6
+1201,Suriname,207.0,SDG 6.4.2. Water Stress,4550.0,1987.0,2.951
+1202,Suriname,207.0,SDG 6.4.2. Water Stress,4550.0,2000.0,4.298
+1203,Suriname,207.0,SDG 6.4.2. Water Stress,4550.0,2006.0,3.951
+1214,Sweden,210.0,SDG 6.4.2. Water Stress,4550.0,1970.0,5.877000000000001
+1215,Sweden,210.0,SDG 6.4.2. Water Stress,4550.0,1975.0,5.9670000000000005
+1216,Sweden,210.0,SDG 6.4.2. Water Stress,4550.0,1980.0,5.925
+1217,Sweden,210.0,SDG 6.4.2. Water Stress,4550.0,1985.0,4.2860000000000005
+1218,Sweden,210.0,SDG 6.4.2. Water Stress,4550.0,1992.0,4.29
+1219,Sweden,210.0,SDG 6.4.2. Water Stress,4550.0,1997.0,3.912
+1220,Sweden,210.0,SDG 6.4.2. Water Stress,4550.0,2002.0,3.861
+1221,Sweden,210.0,SDG 6.4.2. Water Stress,4550.0,2007.0,3.795
+1222,Sweden,210.0,SDG 6.4.2. Water Stress,4550.0,2010.0,3.88
+1223,Sweden,210.0,SDG 6.4.2. Water Stress,4550.0,2015.0,3.427
+1231,Switzerland,211.0,SDG 6.4.2. Water Stress,4550.0,1975.0,9.908
+1232,Switzerland,211.0,SDG 6.4.2. Water Stress,4550.0,1980.0,9.874
+1233,Switzerland,211.0,SDG 6.4.2. Water Stress,4550.0,1985.0,10.09
+1234,Switzerland,211.0,SDG 6.4.2. Water Stress,4550.0,1992.0,10.28
+1235,Switzerland,211.0,SDG 6.4.2. Water Stress,4550.0,1997.0,9.76
+1236,Switzerland,211.0,SDG 6.4.2. Water Stress,4550.0,2002.0,9.603
+1237,Switzerland,211.0,SDG 6.4.2. Water Stress,4550.0,2012.0,7.647
+1242,Syrian Arab Republic,212.0,SDG 6.4.2. Water Stress,4550.0,1975.0,29.75
+1243,Syrian Arab Republic,212.0,SDG 6.4.2. Water Stress,4550.0,1997.0,128.5
+1244,Syrian Arab Republic,212.0,SDG 6.4.2. Water Stress,4550.0,2002.0,145.7
+1245,Syrian Arab Republic,212.0,SDG 6.4.2. Water Stress,4550.0,2005.0,125.9
+1249,Tajikistan,208.0,SDG 6.4.2. Water Stress,4550.0,1994.0,76.0
+1250,Tajikistan,208.0,SDG 6.4.2. Water Stress,4550.0,2000.0,76.92
+1251,Tajikistan,208.0,SDG 6.4.2. Water Stress,4550.0,2006.0,73.82
+1253,Thailand,216.0,SDG 6.4.2. Water Stress,4550.0,2007.0,23.02
+1255,Timor-Leste,176.0,SDG 6.4.2. Water Stress,4550.0,2004.0,28.27
+1258,Togo,217.0,SDG 6.4.2. Water Stress,4550.0,1987.0,1.3840000000000001
+1259,Togo,217.0,SDG 6.4.2. Water Stress,4550.0,2002.0,2.57
+1264,Trinidad and Tobago,220.0,SDG 6.4.2. Water Stress,4550.0,1997.0,17.96
+1265,Trinidad and Tobago,220.0,SDG 6.4.2. Water Stress,4550.0,2000.0,18.98
+1266,Trinidad and Tobago,220.0,SDG 6.4.2. Water Stress,4550.0,2005.0,18.68
+1267,Trinidad and Tobago,220.0,SDG 6.4.2. Water Stress,4550.0,2011.0,20.33
+1276,Tunisia,222.0,SDG 6.4.2. Water Stress,4550.0,1975.0,27.17
+1277,Tunisia,222.0,SDG 6.4.2. Water Stress,4550.0,1980.0,48.24
+1278,Tunisia,222.0,SDG 6.4.2. Water Stress,4550.0,1985.0,58.4
+1279,Tunisia,222.0,SDG 6.4.2. Water Stress,4550.0,1990.0,77.88
+1280,Tunisia,222.0,SDG 6.4.2. Water Stress,4550.0,1995.0,72.34
+1281,Tunisia,222.0,SDG 6.4.2. Water Stress,4550.0,2001.0,71.33
+1282,Tunisia,222.0,SDG 6.4.2. Water Stress,4550.0,2011.0,81.68
+1283,Tunisia,222.0,SDG 6.4.2. Water Stress,4550.0,2017.0,121.1
+1289,Turkey,223.0,SDG 6.4.2. Water Stress,4550.0,1992.0,23.47
+1290,Turkey,223.0,SDG 6.4.2. Water Stress,4550.0,2002.0,28.06
+1291,Turkey,223.0,SDG 6.4.2. Water Stress,4550.0,2006.0,26.7
+1292,Turkey,223.0,SDG 6.4.2. Water Stress,4550.0,2012.0,37.52
+1293,Turkey,223.0,SDG 6.4.2. Water Stress,4550.0,2017.0,43.65
+1297,Turkmenistan,213.0,SDG 6.4.2. Water Stress,4550.0,1994.0,122.1
+1298,Turkmenistan,213.0,SDG 6.4.2. Water Stress,4550.0,2000.0,128.3
+1299,Turkmenistan,213.0,SDG 6.4.2. Water Stress,4550.0,2004.0,143.5
+1303,Uganda,226.0,SDG 6.4.2. Water Stress,4550.0,1970.0,1.83
+1304,Uganda,226.0,SDG 6.4.2. Water Stress,4550.0,2002.0,2.904
+1305,Uganda,226.0,SDG 6.4.2. Water Stress,4550.0,2008.0,5.827999999999999
+1311,Ukraine,230.0,SDG 6.4.2. Water Stress,4550.0,1992.0,33.68
+1312,Ukraine,230.0,SDG 6.4.2. Water Stress,4550.0,2000.0,23.68
+1313,Ukraine,230.0,SDG 6.4.2. Water Stress,4550.0,2005.0,19.53
+1314,Ukraine,230.0,SDG 6.4.2. Water Stress,4550.0,2010.0,19.24
+1315,Ukraine,230.0,SDG 6.4.2. Water Stress,4550.0,2017.0,11.19
+1321,United Arab Emirates,225.0,SDG 6.4.2. Water Stress,4550.0,1980.0,600.0
+1322,United Arab Emirates,225.0,SDG 6.4.2. Water Stress,4550.0,1995.0,1149.0
+1323,United Arab Emirates,225.0,SDG 6.4.2. Water Stress,4550.0,2000.0,1556.0
+1324,United Arab Emirates,225.0,SDG 6.4.2. Water Stress,4550.0,2005.0,1490.0
+1325,United Arab Emirates,225.0,SDG 6.4.2. Water Stress,4550.0,2017.0,1708.0
+1334,United Kingdom,229.0,SDG 6.4.2. Water Stress,4550.0,1980.0,22.98
+1335,United Kingdom,229.0,SDG 6.4.2. Water Stress,4550.0,1985.0,19.61
+1336,United Kingdom,229.0,SDG 6.4.2. Water Stress,4550.0,1990.0,20.49
+1337,United Kingdom,229.0,SDG 6.4.2. Water Stress,4550.0,1995.0,20.61
+1338,United Kingdom,229.0,SDG 6.4.2. Water Stress,4550.0,2002.0,26.91
+1339,United Kingdom,229.0,SDG 6.4.2. Water Stress,4550.0,2007.0,14.46
+1340,United Kingdom,229.0,SDG 6.4.2. Water Stress,4550.0,2012.0,13.67
+1341,United Kingdom,229.0,SDG 6.4.2. Water Stress,4550.0,2016.0,14.36
+1343,United Republic of Tanzania,215.0,SDG 6.4.2. Water Stress,4550.0,2002.0,12.96
+1350,United States of America,231.0,SDG 6.4.2. Water Stress,4550.0,1980.0,32.8
+1351,United States of America,231.0,SDG 6.4.2. Water Stress,4550.0,1990.0,29.47
+1352,United States of America,231.0,SDG 6.4.2. Water Stress,4550.0,2000.0,30.01
+1353,United States of America,231.0,SDG 6.4.2. Water Stress,4550.0,2005.0,30.33
+1354,United States of America,231.0,SDG 6.4.2. Water Stress,4550.0,2010.0,26.53
+1355,United States of America,231.0,SDG 6.4.2. Water Stress,4550.0,2015.0,28.16
+1358,Uruguay,234.0,SDG 6.4.2. Water Stress,4550.0,1965.0,1.7380000000000002
+1359,Uruguay,234.0,SDG 6.4.2. Water Stress,4550.0,2000.0,9.786
+1364,Uzbekistan,235.0,SDG 6.4.2. Water Stress,4550.0,1994.0,154.2
+1365,Uzbekistan,235.0,SDG 6.4.2. Water Stress,4550.0,2001.0,154.1
+1366,Uzbekistan,235.0,SDG 6.4.2. Water Stress,4550.0,2005.0,141.0
+1367,Uzbekistan,235.0,SDG 6.4.2. Water Stress,4550.0,2017.0,168.9
+1371,Venezuela (Bolivarian Republic of),236.0,SDG 6.4.2. Water Stress,4550.0,1970.0,1.367
+1372,Venezuela (Bolivarian Republic of),236.0,SDG 6.4.2. Water Stress,4550.0,2000.0,3.02
+1373,Venezuela (Bolivarian Republic of),236.0,SDG 6.4.2. Water Stress,4550.0,2007.0,7.54
+1377,Viet Nam,237.0,SDG 6.4.2. Water Stress,4550.0,1980.0,8.385
+1378,Viet Nam,237.0,SDG 6.4.2. Water Stress,4550.0,1985.0,10.03
+1379,Viet Nam,237.0,SDG 6.4.2. Water Stress,4550.0,2005.0,18.13
+1383,Yemen,249.0,SDG 6.4.2. Water Stress,4550.0,1990.0,139.1
+1384,Yemen,249.0,SDG 6.4.2. Water Stress,4550.0,2000.0,161.1
+1385,Yemen,249.0,SDG 6.4.2. Water Stress,4550.0,2005.0,168.6
+1389,Zambia,251.0,SDG 6.4.2. Water Stress,4550.0,1992.0,3.1510000000000002
+1390,Zambia,251.0,SDG 6.4.2. Water Stress,4550.0,1994.0,3.077
+1391,Zambia,251.0,SDG 6.4.2. Water Stress,4550.0,2002.0,2.835
+1396,Zimbabwe,181.0,SDG 6.4.2. Water Stress,4550.0,1987.0,11.45
+1397,Zimbabwe,181.0,SDG 6.4.2. Water Stress,4550.0,2002.0,39.48
+1398,Zimbabwe,181.0,SDG 6.4.2. Water Stress,4550.0,2007.0,33.51
+1399,Zimbabwe,181.0,SDG 6.4.2. Water Stress,4550.0,2017.0,31.35
