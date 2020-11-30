@@ -1,38 +1,40 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Project Week 5 - Water Crisis?
+*[Àlex Gómez Segura]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics FT OCT Barcelona 27/11/2020]*
 
 ## Content
 - [Project Description](#project-description)
-- [Questions & Hypotheses](#questions-hypotheses)
 - [Dataset](#dataset)
 - [Workflow](#workflow)
 - [Organization](#organization)
 - [Links](#links)
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+Water is a scarce resource. Nowadays, it is difficult to remember as when we turn on the faucet, clean water will flow. But we don’t have to forget that this quest has been one of the greatest humanity’s challenge. Civilizations that harness water, thrived, the ones that failed, felt. As world’s total population continues to increase, global supply of water for each person is in jeopardy. In mid-2017, Cape Town was in a critical situation due to the available water resources. Because of that, a series of restrictions on the global water supply for the citizen known as 'Day Zero' came close to being implemented.
 
-## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+In this project it's shown the study of world's water situation, the evolution of the amount of freshwater consumption and the available resources.
 
 ## Dataset
-What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
+Datasets used in this project have been obtained from AQUASTAT: [AQUASTAT Database](http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en)
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+The workflow followed during the project is shown in the [Trello](https://trello.com/b/xOARUf2z/project-week5-water-crisis) dashboard.
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+At the beginning of this project, the organization of the project was made with a kanban board with the tool *Trello*.
+The repository of the project has the following folder structure:
 
-What does your repository look like? Explain your folder and file structure.
+- main folder named *'your-code'*: it contains all the subfolders and files of the project, including README.md
+- subfolder named *'data'*: it contains all the datasets used in the project.
+- file named *'Water Evolution Analysis'*: it is the module that contains the general code of the project. 
+- file named *'Technical Report'*: report that describes the general structure of the project and its results.
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/agomezsegura/Project-Week-5-Your-Own-Project/blob/master/your-project/README.md)  
+[Slides](https://slides.com/alexgomezsegura/water-crisis)  
+[Trello](https://trello.com/b/xOARUf2z/project-week5-water-crisis)  
